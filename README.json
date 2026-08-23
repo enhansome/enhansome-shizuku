@@ -14,10 +14,40 @@
                 "archived": false,
                 "id": 948839453,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T18:39:23Z",
+                "last_commit": "2026-08-22T10:42:53Z",
                 "owner": "AAswordman",
                 "repo": "Operit",
-                "stars": 7161
+                "stars": 7201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenMinis",
+              "description": "AI-powered agent with Linux shell, browser automation, and system control via Shizuku",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1220936047,
+                "language": "Swift",
+                "last_commit": "2026-08-18T18:25:49Z",
+                "owner": "OpenMinis",
+                "repo": "OpenMinis",
+                "stars": 3912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OmniBot",
+              "description": "On-device AI agent with terminal, web browsing, device control, and system integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185430378,
+                "language": "Dart",
+                "last_commit": "2026-08-23T07:57:14Z",
+                "owner": "omnimind-ai",
+                "repo": "OmniBot",
+                "stars": 1919
               }
             },
             {
@@ -62,7 +92,7 @@
                 "last_commit": "2026-05-28T17:45:56Z",
                 "owner": "ankurCES",
                 "repo": "project_mythara",
-                "stars": 60
+                "stars": 61
               }
             },
             {
@@ -151,7 +181,7 @@
                 "last_commit": "2026-07-24T23:44:29Z",
                 "owner": "timschneeb",
                 "repo": "RootlessJamesDSP",
-                "stars": 1634
+                "stars": 1636
               }
             },
             {
@@ -181,7 +211,7 @@
                 "last_commit": "2026-08-11T21:08:21Z",
                 "owner": "papergray",
                 "repo": "MicUp",
-                "stars": 135
+                "stars": 136
               }
             },
             {
@@ -192,11 +222,26 @@
               "repo_info": {
                 "archived": false,
                 "id": 1179757591,
-                "language": "C++",
-                "last_commit": "2026-07-19T09:11:38Z",
+                "language": "Dart",
+                "last_commit": "2026-08-22T15:10:14Z",
                 "owner": "qumolangmo",
                 "repo": "wecho",
-                "stars": 83
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volume++",
+              "description": "Custom volume panel with per-app audio mixing via Shizuku or root",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1304545403,
+                "language": "Kotlin",
+                "last_commit": "2026-08-16T02:16:44Z",
+                "owner": "noel-digital-fan",
+                "repo": "volume_plus_plus",
+                "stars": 75
               }
             }
           ],
@@ -218,7 +263,7 @@
                 "last_commit": "2026-03-16T14:48:05Z",
                 "owner": "SuperMonster003",
                 "repo": "AutoJs6",
-                "stars": 6260
+                "stars": 6264
               }
             },
             {
@@ -233,7 +278,7 @@
                 "last_commit": "2026-07-29T03:36:09Z",
                 "owner": "JackEblan",
                 "repo": "Geto",
-                "stars": 1132
+                "stars": 1135
               }
             },
             {
@@ -300,7 +345,7 @@
                 "last_commit": "2026-08-19T20:01:14Z",
                 "owner": "kitsumed",
                 "repo": "ShizuCallRecorder",
-                "stars": 1297
+                "stars": 1305
               }
             },
             {
@@ -315,7 +360,7 @@
                 "last_commit": "2026-02-25T09:18:03Z",
                 "owner": "kmod-midori",
                 "repo": "CatShare",
-                "stars": 740
+                "stars": 741
               }
             },
             {
@@ -330,7 +375,7 @@
                 "last_commit": "2026-01-12T07:02:14Z",
                 "owner": "revenge-mod",
                 "repo": "revenge-manager",
-                "stars": 693
+                "stars": 695
               }
             },
             {
@@ -427,7 +472,7 @@
                 "last_commit": "2024-10-26T21:49:00Z",
                 "owner": "KieronQuinn",
                 "repo": "TapTap",
-                "stars": 4020
+                "stars": 4021
               }
             },
             {
@@ -439,10 +484,10 @@
                 "archived": false,
                 "id": 1109834595,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T13:47:42Z",
+                "last_commit": "2026-08-23T07:18:02Z",
                 "owner": "sameerasw",
                 "repo": "essentials",
-                "stars": 2658
+                "stars": 2664
               }
             },
             {
@@ -472,7 +517,7 @@
                 "last_commit": "2026-07-28T16:28:50Z",
                 "owner": "legendsayantan",
                 "repo": "ShizuTools",
-                "stars": 2448
+                "stars": 2450
               }
             },
             {
@@ -484,10 +529,10 @@
                 "archived": false,
                 "id": 728212692,
                 "language": "Kotlin",
-                "last_commit": "2026-08-17T07:52:52Z",
+                "last_commit": "2026-08-23T01:15:40Z",
                 "owner": "Mahmud0808",
                 "repo": "ColorBlendr",
-                "stars": 2397
+                "stars": 2398
               }
             },
             {
@@ -502,7 +547,7 @@
                 "last_commit": "2026-08-07T12:52:13Z",
                 "owner": "LinkSheet",
                 "repo": "LinkSheet",
-                "stars": 2064
+                "stars": 2066
               }
             },
             {
@@ -514,25 +559,10 @@
                 "archived": false,
                 "id": 221786635,
                 "language": "Kotlin",
-                "last_commit": "2026-08-16T13:49:38Z",
+                "last_commit": "2026-08-22T18:38:17Z",
                 "owner": "zacharee",
                 "repo": "Tweaker",
                 "stars": 1717
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DarQ",
-              "description": "✨ - DarQ provides a per-app selectable force dark option for Android 10 and above",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 194549688,
-                "language": "Kotlin",
-                "last_commit": "2023-09-01T15:19:43Z",
-                "owner": "KieronQuinn",
-                "repo": "DarQ",
-                "stars": 1679
               }
             },
             {
@@ -547,7 +577,7 @@
                 "last_commit": "2026-05-21T19:08:33Z",
                 "owner": "axel358",
                 "repo": "smartdock",
-                "stars": 1398
+                "stars": 1400
               }
             },
             {
@@ -562,7 +592,7 @@
                 "last_commit": "2024-11-21T15:50:08Z",
                 "owner": "farmerbb",
                 "repo": "Taskbar",
-                "stars": 1239
+                "stars": 1243
               }
             },
             {
@@ -592,7 +622,7 @@
                 "last_commit": "2024-12-29T19:06:19Z",
                 "owner": "VegaBobo",
                 "repo": "Language-Selector",
-                "stars": 759
+                "stars": 762
               }
             },
             {
@@ -622,7 +652,7 @@
                 "last_commit": "2026-07-28T18:50:18Z",
                 "owner": "legendsayantan",
                 "repo": "Extendroid",
-                "stars": 669
+                "stars": 673
               }
             },
             {
@@ -637,7 +667,7 @@
                 "last_commit": "2026-08-21T09:51:42Z",
                 "owner": "mrYouki",
                 "repo": "YoukiDex-Android-Desktop",
-                "stars": 518
+                "stars": 536
               }
             },
             {
@@ -649,10 +679,10 @@
                 "archived": false,
                 "id": 262360174,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T12:56:20Z",
+                "last_commit": "2026-08-23T00:36:30Z",
                 "owner": "zacharee",
                 "repo": "LockscreenWidgets",
-                "stars": 507
+                "stars": 509
               }
             },
             {
@@ -667,7 +697,7 @@
                 "last_commit": "2026-05-04T11:42:38Z",
                 "owner": "Katsuyamaki",
                 "repo": "DroidOS",
-                "stars": 392
+                "stars": 391
               }
             },
             {
@@ -682,7 +712,7 @@
                 "last_commit": "2026-07-26T15:09:45Z",
                 "owner": "palincat",
                 "repo": "gama",
-                "stars": 378
+                "stars": 377
               }
             },
             {
@@ -709,7 +739,7 @@
                 "archived": false,
                 "id": 1104767780,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T11:47:28Z",
+                "last_commit": "2026-08-22T19:34:49Z",
                 "owner": "Elnix90",
                 "repo": "Dragon-Launcher",
                 "stars": 279
@@ -739,7 +769,7 @@
                 "archived": false,
                 "id": 879389086,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T18:35:34Z",
+                "last_commit": "2026-08-22T22:23:08Z",
                 "owner": "xLexip",
                 "repo": "Adaptive-Theme",
                 "stars": 194
@@ -769,10 +799,10 @@
                 "archived": false,
                 "id": 1152991350,
                 "language": "Kotlin",
-                "last_commit": "2026-08-18T19:19:02Z",
+                "last_commit": "2026-08-22T08:12:49Z",
                 "owner": "AhmetCanArslan",
                 "repo": "CustomAnimator",
-                "stars": 115
+                "stars": 116
               }
             },
             {
@@ -817,22 +847,22 @@
                 "last_commit": "2026-08-22T06:30:08Z",
                 "owner": "agupta07505",
                 "repo": "SmartIsland",
-                "stars": 90
+                "stars": 97
               }
             },
             {
               "node_type": "item",
-              "title": "AutoDark",
-              "description": "A small Android app to let you schedule dark mode On/Off (Source code)",
+              "title": "DarQ-Reborn",
+              "description": "Per-app selectable force dark option for Android 10 and above",
               "children": [],
               "repo_info": {
-                "archived": true,
-                "id": 208796965,
+                "archived": false,
+                "id": 1250271262,
                 "language": "Kotlin",
-                "last_commit": "2022-01-31T08:45:04Z",
-                "owner": "0ranko0P",
-                "repo": "AutoDark",
-                "stars": 86
+                "last_commit": "2026-08-12T17:19:00Z",
+                "owner": "Arora-Sir",
+                "repo": "DarQ-Reborn",
+                "stars": 75
               }
             },
             {
@@ -926,10 +956,10 @@
                 "archived": false,
                 "id": 248400799,
                 "language": "Kotlin",
-                "last_commit": "2026-08-18T09:18:47Z",
+                "last_commit": "2026-08-23T04:08:36Z",
                 "owner": "LibChecker",
                 "repo": "LibChecker",
-                "stars": 7114
+                "stars": 7115
               }
             },
             {
@@ -944,7 +974,7 @@
                 "last_commit": "2024-03-13T18:18:38Z",
                 "owner": "VegaBobo",
                 "repo": "DSU-Sideloader",
-                "stars": 2260
+                "stars": 2263
               }
             },
             {
@@ -959,7 +989,7 @@
                 "last_commit": "2025-09-30T14:57:21Z",
                 "owner": "vvb2060",
                 "repo": "KeyAttestation",
-                "stars": 2076
+                "stars": 2078
               }
             },
             {
@@ -974,7 +1004,7 @@
                 "last_commit": "2026-07-25T22:12:53Z",
                 "owner": "sdex",
                 "repo": "ActivityManager",
-                "stars": 1282
+                "stars": 1286
               }
             },
             {
@@ -989,7 +1019,7 @@
                 "last_commit": "2026-06-25T20:44:51Z",
                 "owner": "F0x1d",
                 "repo": "LogFox",
-                "stars": 1276
+                "stars": 1278
               }
             },
             {
@@ -1004,7 +1034,7 @@
                 "last_commit": "2026-08-21T14:37:27Z",
                 "owner": "aload0",
                 "repo": "Cosmic-IDE",
-                "stars": 710
+                "stars": 709
               }
             },
             {
@@ -1019,7 +1049,7 @@
                 "last_commit": "2026-05-26T21:46:24Z",
                 "owner": "Smooth-E",
                 "repo": "wireless-adb-switch",
-                "stars": 676
+                "stars": 677
               }
             },
             {
@@ -1124,7 +1154,7 @@
                 "last_commit": "2026-05-21T05:40:14Z",
                 "owner": "binhmod",
                 "repo": "FPSViewer",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -1188,10 +1218,10 @@
                 "archived": false,
                 "id": 625818604,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T18:50:58Z",
+                "last_commit": "2026-08-22T17:51:39Z",
                 "owner": "iamr0s",
                 "repo": "Dhizuku",
-                "stars": 3720
+                "stars": 3721
               }
             },
             {
@@ -1219,10 +1249,25 @@
                 "archived": false,
                 "id": 742825375,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T15:26:35Z",
+                "last_commit": "2026-08-23T04:07:47Z",
                 "owner": "BinTianqi",
                 "repo": "OwnDroid",
-                "stars": 1336
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "harbor",
+              "description": "Work-profile manager with optional Shizuku tools for automation (Source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1325279263,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T08:49:06Z",
+                "owner": "Stem0794",
+                "repo": "harbor",
+                "stars": 16
               }
             }
           ],
@@ -1245,6 +1290,21 @@
                 "owner": "farmerbb",
                 "repo": "SecondScreen",
                 "stars": 512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dextop",
+              "description": "Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1331818474,
+                "language": "Dart",
+                "last_commit": "2026-08-22T15:35:54Z",
+                "owner": "NarYuki",
+                "repo": "Dextop",
+                "stars": 163
               }
             },
             {
@@ -1274,7 +1334,7 @@
                 "last_commit": "2026-08-08T20:59:20Z",
                 "owner": "jqssun",
                 "repo": "android-display-mirror",
-                "stars": 146
+                "stars": 147
               }
             },
             {
@@ -1361,7 +1421,7 @@
                     "last_commit": "2026-08-18T19:52:50Z",
                     "owner": "jobobby04",
                     "repo": "TachiyomiSY",
-                    "stars": 4109
+                    "stars": 4110
                   }
                 }
               ],
@@ -1369,10 +1429,10 @@
                 "archived": false,
                 "id": 743704912,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T02:22:46Z",
+                "last_commit": "2026-08-22T20:37:02Z",
                 "owner": "mihonapp",
                 "repo": "mihon",
-                "stars": 23033
+                "stars": 23056
               }
             },
             {
@@ -1387,7 +1447,7 @@
                 "last_commit": "2026-08-19T14:51:58Z",
                 "owner": "aniyomiorg",
                 "repo": "aniyomi",
-                "stars": 7620
+                "stars": 7622
               }
             },
             {
@@ -1417,7 +1477,7 @@
                 "last_commit": "2026-07-27T16:03:21Z",
                 "owner": "molihuan",
                 "repo": "hlbmerge_flutter",
-                "stars": 340
+                "stars": 341
               }
             }
           ],
@@ -1436,10 +1496,10 @@
                 "archived": false,
                 "id": 568329126,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T17:31:50Z",
+                "last_commit": "2026-08-22T21:00:12Z",
                 "owner": "d4rken-org",
                 "repo": "sdmaid-se",
-                "stars": 7334
+                "stars": 7345
               }
             },
             {
@@ -1454,7 +1514,7 @@
                 "last_commit": "2026-08-11T04:36:48Z",
                 "owner": "Senzme",
                 "repo": "NFile",
-                "stars": 373
+                "stars": 375
               }
             },
             {
@@ -1481,10 +1541,25 @@
                 "archived": false,
                 "id": 1263054462,
                 "language": "Dart",
-                "last_commit": "2026-08-21T17:57:40Z",
+                "last_commit": "2026-08-22T16:59:23Z",
                 "owner": "l930203811",
                 "repo": "ZenFile",
-                "stars": 112
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XFiles",
+              "description": "Offline file manager with root and Shizuku support for full filesystem access",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1298367827,
+                "language": "Kotlin",
+                "last_commit": "2026-08-15T11:08:39Z",
+                "owner": "Local1stDotApp",
+                "repo": "XFiles",
+                "stars": 22
               }
             }
           ],
@@ -1582,6 +1657,21 @@
                 "owner": "Mygod",
                 "repo": "pogoplusle",
                 "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "umamusume-localify-android",
+              "description": "Localization module for Umamusume via Zygisk with Shizuku integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 487452200,
+                "language": "C++",
+                "last_commit": "2026-08-21T16:04:18Z",
+                "owner": "Kimjio",
+                "repo": "umamusume-localify-android",
+                "stars": 56
               }
             },
             {
@@ -1708,7 +1798,7 @@
                 "last_commit": "2026-08-11T23:56:14Z",
                 "owner": "keymapperorg",
                 "repo": "KeyMapper",
-                "stars": 2597
+                "stars": 2602
               }
             },
             {
@@ -1827,7 +1917,23 @@
               "node_type": "item",
               "title": "Obtainium",
               "description": "Get Android App Updates Directly From the Source",
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ObtainX",
+                  "description": "Obtainium fork with Material 3 UI redesign (Source code)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1166691092,
+                    "language": "Dart",
+                    "last_commit": "2026-08-22T22:03:28Z",
+                    "owner": "bikram-agarwal",
+                    "repo": "ObtainX",
+                    "stars": 1020
+                  }
+                }
+              ],
               "repo_info": {
                 "archived": false,
                 "id": 523534328,
@@ -1835,7 +1941,7 @@
                 "last_commit": "2026-08-10T02:55:19Z",
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 19129
+                "stars": 19164
               }
             },
             {
@@ -1850,7 +1956,7 @@
                 "last_commit": "2026-07-29T17:44:50Z",
                 "owner": "kurikomi-labs",
                 "repo": "komi-store",
-                "stars": 17831
+                "stars": 17863
               }
             },
             {
@@ -1862,10 +1968,10 @@
                 "archived": false,
                 "id": 510342492,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T07:34:54Z",
+                "last_commit": "2026-08-23T07:51:55Z",
                 "owner": "Droid-ify",
                 "repo": "client",
-                "stars": 7292
+                "stars": 7297
               }
             },
             {
@@ -1877,10 +1983,10 @@
                 "archived": false,
                 "id": 884278258,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T04:14:24Z",
+                "last_commit": "2026-08-22T11:51:49Z",
                 "owner": "wxxsfxyzm",
                 "repo": "InstallerX-Revived",
-                "stars": 6234
+                "stars": 6251
               }
             },
             {
@@ -1895,7 +2001,7 @@
                 "last_commit": "2026-04-25T23:48:57Z",
                 "owner": "NeoApplications",
                 "repo": "Neo-Store",
-                "stars": 4921
+                "stars": 4925
               }
             },
             {
@@ -1910,7 +2016,7 @@
                 "last_commit": "2024-06-03T21:59:10Z",
                 "owner": "Aefyr",
                 "repo": "SAI",
-                "stars": 3798
+                "stars": 3800
               }
             },
             {
@@ -1940,7 +2046,7 @@
                 "last_commit": "2026-08-17T17:01:05Z",
                 "owner": "RookieEnough",
                 "repo": "Orion-Store",
-                "stars": 3132
+                "stars": 3141
               }
             },
             {
@@ -1952,10 +2058,10 @@
                 "archived": false,
                 "id": 1027943375,
                 "language": "Kotlin",
-                "last_commit": "2026-08-09T16:30:33Z",
+                "last_commit": "2026-08-23T07:55:51Z",
                 "owner": "pass-with-high-score",
                 "repo": "universal-installer",
-                "stars": 1285
+                "stars": 1287
               }
             },
             {
@@ -1970,7 +2076,7 @@
                 "last_commit": "2026-08-21T14:01:25Z",
                 "owner": "mamiiblt",
                 "repo": "instafel",
-                "stars": 1244
+                "stars": 1246
               }
             },
             {
@@ -2012,7 +2118,7 @@
                 "archived": false,
                 "id": 720492308,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T11:38:24Z",
+                "last_commit": "2026-08-22T10:20:17Z",
                 "owner": "SanmerApps",
                 "repo": "PI",
                 "stars": 693
@@ -2046,6 +2152,21 @@
                 "owner": "B1ays",
                 "repo": "BHub",
                 "stars": 354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShizuCoreFetch",
+              "description": "Shizuku-powered app manager with silent installs, updates, and batch operations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1260752032,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T19:19:06Z",
+                "owner": "elhizazi1",
+                "repo": "ShizuCoreFetch",
+                "stars": 303
               }
             }
           ],
@@ -2097,7 +2218,7 @@
                 "last_commit": "2026-07-20T15:41:15Z",
                 "owner": "androidexpert35",
                 "repo": "AppBooster",
-                "stars": 86
+                "stars": 87
               }
             },
             {
@@ -2112,7 +2233,7 @@
                 "last_commit": "2026-08-06T15:54:52Z",
                 "owner": "dkajan19",
                 "repo": "NotiFixer",
-                "stars": 77
+                "stars": 79
               }
             },
             {
@@ -2194,7 +2315,7 @@
                 "last_commit": "2026-08-21T16:59:06Z",
                 "owner": "SagerNet",
                 "repo": "sing-box",
-                "stars": 37191
+                "stars": 37211
               }
             },
             {
@@ -2206,10 +2327,10 @@
                 "archived": false,
                 "id": 644710160,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T03:28:25Z",
+                "last_commit": "2026-08-23T06:52:10Z",
                 "owner": "wgtunnel",
                 "repo": "android",
-                "stars": 3057
+                "stars": 3062
               }
             },
             {
@@ -2221,10 +2342,10 @@
                 "archived": false,
                 "id": 1084579793,
                 "language": "Kotlin",
-                "last_commit": "2026-08-13T19:00:00Z",
+                "last_commit": "2026-08-22T22:16:27Z",
                 "owner": "AhmetCanArslan",
                 "repo": "ShizuWall",
-                "stars": 2155
+                "stars": 2157
               }
             },
             {
@@ -2239,7 +2360,7 @@
                 "last_commit": "2026-08-13T12:22:06Z",
                 "owner": "leekleak",
                 "repo": "traffic-light",
-                "stars": 818
+                "stars": 821
               }
             },
             {
@@ -2269,7 +2390,7 @@
                 "last_commit": "2026-08-22T02:01:43Z",
                 "owner": "eyalm2000",
                 "repo": "adns",
-                "stars": 546
+                "stars": 553
               }
             },
             {
@@ -2284,7 +2405,7 @@
                 "last_commit": "2026-08-20T18:15:05Z",
                 "owner": "aunchagaonkar",
                 "repo": "NetworkSwitch",
-                "stars": 428
+                "stars": 430
               }
             },
             {
@@ -2314,7 +2435,7 @@
                 "last_commit": "2026-08-21T15:59:01Z",
                 "owner": "Khh-vu",
                 "repo": "wifi-password-manager",
-                "stars": 281
+                "stars": 282
               }
             },
             {
@@ -2329,7 +2450,7 @@
                 "last_commit": "2025-01-18T00:21:01Z",
                 "owner": "zacharee",
                 "repo": "WiFiList",
-                "stars": 263
+                "stars": 264
               }
             },
             {
@@ -2434,7 +2555,22 @@
                 "last_commit": "2026-08-19T20:00:26Z",
                 "owner": "Dhangofa",
                 "repo": "NetToggle",
-                "stars": 23
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shizzi",
+              "description": "Rootless Wi-Fi tethering bypass via Shizuku",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1321902217,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T17:39:35Z",
+                "owner": "carlelieser",
+                "repo": "shizzi",
+                "stars": 14
               }
             }
           ],
@@ -2453,10 +2589,10 @@
                 "archived": false,
                 "id": 1104751416,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T00:11:22Z",
+                "last_commit": "2026-08-23T00:11:48Z",
                 "owner": "MorpheApp",
                 "repo": "morphe-manager",
-                "stars": 7316
+                "stars": 7354
               }
             },
             {
@@ -2468,10 +2604,10 @@
                 "archived": false,
                 "id": 646410934,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T03:19:48Z",
+                "last_commit": "2026-08-22T17:34:47Z",
                 "owner": "JingMatrix",
                 "repo": "LSPatch",
-                "stars": 3712
+                "stars": 3720
               }
             },
             {
@@ -2486,7 +2622,7 @@
                 "last_commit": "2026-08-20T15:55:31Z",
                 "owner": "Jman-Github",
                 "repo": "Universal-ReVanced-Manager",
-                "stars": 1268
+                "stars": 1270
               }
             }
           ],
@@ -2508,7 +2644,7 @@
                 "last_commit": "2026-07-26T20:20:14Z",
                 "owner": "Akylas",
                 "repo": "EnforceDoze",
-                "stars": 353
+                "stars": 354
               }
             },
             {
@@ -2580,10 +2716,10 @@
                 "archived": false,
                 "id": 1226277564,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T15:04:24Z",
+                "last_commit": "2026-08-22T21:10:26Z",
                 "owner": "tswistak",
                 "repo": "Battery-Monitor",
-                "stars": 59
+                "stars": 60
               }
             },
             {
@@ -2665,7 +2801,7 @@
                 "last_commit": "2026-08-11T08:11:11Z",
                 "owner": "deltazefiro",
                 "repo": "Amarok-Hider",
-                "stars": 3205
+                "stars": 3206
               }
             },
             {
@@ -2680,7 +2816,7 @@
                 "last_commit": "2026-07-21T19:44:25Z",
                 "owner": "aload0",
                 "repo": "AppLock",
-                "stars": 838
+                "stars": 842
               }
             },
             {
@@ -2707,10 +2843,10 @@
                 "archived": false,
                 "id": 877904932,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T00:20:48Z",
+                "last_commit": "2026-08-23T07:28:22Z",
                 "owner": "bakad3v",
                 "repo": "Android-AntiForensic-Tools",
-                "stars": 188
+                "stars": 189
               }
             }
           ],
@@ -2732,7 +2868,7 @@
                 "last_commit": "2026-08-18T14:42:10Z",
                 "owner": "curbox-app",
                 "repo": "curbox-android",
-                "stars": 1211
+                "stars": 1212
               }
             },
             {
@@ -2762,7 +2898,7 @@
                 "last_commit": "2026-05-17T16:16:27Z",
                 "owner": "character-flat",
                 "repo": "Blink",
-                "stars": 15
+                "stars": 16
               }
             }
           ],
@@ -2784,7 +2920,7 @@
                 "last_commit": "2026-07-29T08:35:19Z",
                 "owner": "karasevm",
                 "repo": "PrivateDNSAndroid",
-                "stars": 1024
+                "stars": 1025
               }
             },
             {
@@ -2799,7 +2935,7 @@
                 "last_commit": "2026-08-21T20:37:59Z",
                 "owner": "RBN-Apps",
                 "repo": "Quick-Tile-Settings",
-                "stars": 341
+                "stars": 344
               }
             },
             {
@@ -2844,7 +2980,7 @@
                 "last_commit": "2023-09-17T12:23:03Z",
                 "owner": "LinerSRT",
                 "repo": "SensorsOff",
-                "stars": 101
+                "stars": 102
               }
             },
             {
@@ -2856,10 +2992,10 @@
                 "archived": false,
                 "id": 1219844781,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T23:18:05Z",
+                "last_commit": "2026-08-23T00:51:31Z",
                 "owner": "ELowry",
                 "repo": "DNSToggle",
-                "stars": 96
+                "stars": 98
               }
             },
             {
@@ -2926,7 +3062,7 @@
                 "last_commit": "2026-08-12T09:51:29Z",
                 "owner": "aistra0528",
                 "repo": "Hail",
-                "stars": 6498
+                "stars": 6506
               }
             },
             {
@@ -2941,7 +3077,7 @@
                 "last_commit": "2026-08-16T01:57:45Z",
                 "owner": "samolego",
                 "repo": "Canta",
-                "stars": 5596
+                "stars": 5606
               }
             },
             {
@@ -2956,7 +3092,7 @@
                 "last_commit": "2025-04-24T14:46:04Z",
                 "owner": "oasisfeng",
                 "repo": "island",
-                "stars": 3878
+                "stars": 3880
               }
             },
             {
@@ -2971,7 +3107,7 @@
                 "last_commit": "2026-08-03T11:54:58Z",
                 "owner": "lihenggui",
                 "repo": "blocker",
-                "stars": 2370
+                "stars": 2371
               }
             },
             {
@@ -2986,7 +3122,7 @@
                 "last_commit": "2026-08-18T18:43:16Z",
                 "owner": "MMRLApp",
                 "repo": "MMRL",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -3001,7 +3137,7 @@
                 "last_commit": "2026-08-22T00:39:03Z",
                 "owner": "Hamza417",
                 "repo": "Inure",
-                "stars": 1885
+                "stars": 1888
               }
             },
             {
@@ -3013,7 +3149,7 @@
                 "archived": false,
                 "id": 182194761,
                 "language": "Kotlin",
-                "last_commit": "2026-08-16T21:04:47Z",
+                "last_commit": "2026-08-22T08:09:06Z",
                 "owner": "DUpdateSystem",
                 "repo": "UpgradeAll",
                 "stars": 1332
@@ -3043,7 +3179,7 @@
                 "archived": false,
                 "id": 919436363,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T16:22:20Z",
+                "last_commit": "2026-08-22T13:28:07Z",
                 "owner": "trinadhthatakula",
                 "repo": "Thor",
                 "stars": 519
@@ -3143,7 +3279,7 @@
                 "last_commit": "2026-08-18T08:16:23Z",
                 "owner": "RohitKushvaha01",
                 "repo": "TaskManager",
-                "stars": 612
+                "stars": 613
               }
             },
             {
@@ -3155,10 +3291,10 @@
                 "archived": false,
                 "id": 964979242,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T05:43:58Z",
+                "last_commit": "2026-08-23T02:43:10Z",
                 "owner": "YasserNull",
                 "repo": "shappky",
-                "stars": 534
+                "stars": 535
               }
             },
             {
@@ -3173,7 +3309,7 @@
                 "last_commit": "2026-07-12T12:40:22Z",
                 "owner": "biplobsd",
                 "repo": "running_services_monitor",
-                "stars": 407
+                "stars": 408
               }
             },
             {
@@ -3203,7 +3339,22 @@
                 "last_commit": "2026-08-04T16:00:20Z",
                 "owner": "gree1d",
                 "repo": "ReAppzuku",
-                "stars": 162
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KillMyApps",
+              "description": "Background process killer to improve battery life and performance via Shizuku or root",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001636100,
+                "language": "Java",
+                "last_commit": "2026-08-22T10:09:18Z",
+                "owner": "dedeadend",
+                "repo": "KillMyApps",
+                "stars": 65
               }
             },
             {
@@ -3218,7 +3369,7 @@
                 "last_commit": "2026-07-04T22:27:02Z",
                 "owner": "cicerothoma",
                 "repo": "memhogs-android",
-                "stars": 23
+                "stars": 24
               }
             }
           ],
@@ -3237,10 +3388,10 @@
                 "archived": false,
                 "id": 1162195268,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T03:37:30Z",
+                "last_commit": "2026-08-22T21:05:13Z",
                 "owner": "GlassHaven",
                 "repo": "Haven",
-                "stars": 1091
+                "stars": 1097
               }
             },
             {
@@ -3252,10 +3403,10 @@
                 "archived": false,
                 "id": 903308548,
                 "language": "C",
-                "last_commit": "2026-08-22T07:24:28Z",
+                "last_commit": "2026-08-22T08:54:28Z",
                 "owner": "RohitKushvaha01",
                 "repo": "ReTerminal",
-                "stars": 628
+                "stars": 629
               }
             },
             {
@@ -3272,10 +3423,10 @@
                     "archived": false,
                     "id": 747412989,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T00:53:06Z",
+                    "last_commit": "2026-08-23T01:22:07Z",
                     "owner": "DP-Hridayan",
                     "repo": "aShellYou",
-                    "stars": 2212
+                    "stars": 2213
                   }
                 }
               ]
@@ -3301,7 +3452,7 @@
                     "last_commit": "2026-08-08T17:29:12Z",
                     "owner": "KieronQuinn",
                     "repo": "Smartspacer",
-                    "stars": 3482
+                    "stars": 3483
                   }
                 },
                 {
@@ -3316,7 +3467,7 @@
                     "last_commit": "2026-02-07T13:51:45Z",
                     "owner": "kyujin-cho",
                     "repo": "pixel-volte-patch",
-                    "stars": 2985
+                    "stars": 2987
                   }
                 },
                 {
@@ -3346,7 +3497,37 @@
                     "last_commit": "2026-01-02T12:15:57Z",
                     "owner": "iKirby",
                     "repo": "PixelCarrierSettings",
-                    "stars": 206
+                    "stars": 207
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Root-My-Pixel",
+                  "description": "Root automation for Pixel devices via CVE-2026-43499 exploit",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1320437175,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-22T10:34:45Z",
+                    "owner": "alex193a",
+                    "repo": "Root-My-Pixel",
+                    "stars": 195
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "hilight-studio",
+                  "description": "Pixel 11 HiLight LED controller for custom notification and status light effects",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1339264385,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-22T19:36:21Z",
+                    "owner": "DhananjayBhosale",
+                    "repo": "hilight-studio",
+                    "stars": 176
                   }
                 },
                 {
@@ -3376,7 +3557,7 @@
                     "last_commit": "2026-08-04T10:17:42Z",
                     "owner": "barrylk",
                     "repo": "Pixel-IMS-5G",
-                    "stars": 22
+                    "stars": 25
                   }
                 }
               ],
@@ -3398,7 +3579,7 @@
                     "last_commit": "2026-08-09T05:13:42Z",
                     "owner": "BuSung-dev",
                     "repo": "Root-My-Galaxy",
-                    "stars": 903
+                    "stars": 909
                   }
                 },
                 {
@@ -3428,7 +3609,7 @@
                     "last_commit": "2026-04-18T16:24:56Z",
                     "owner": "pascua28",
                     "repo": "SBatteryTweaks",
-                    "stars": 148
+                    "stars": 149
                   }
                 },
                 {
@@ -3655,7 +3836,7 @@
                 "last_commit": "2025-05-29T19:12:40Z",
                 "owner": "RikkaApps",
                 "repo": "Shizuku-API",
-                "stars": 2469
+                "stars": 2474
               }
             },
             {
@@ -3693,21 +3874,6 @@
                 "owner": "solrudev",
                 "repo": "Ackpine",
                 "stars": 175
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "shizuku_apk_installer",
-              "description": "Flutter plugin for installing Android APKs using Shizuku API",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 780534385,
-                "language": "Kotlin",
-                "last_commit": "2026-07-10T18:31:21Z",
-                "owner": "re7gog",
-                "repo": "shizuku_apk_installer",
-                "stars": 141
               }
             },
             {
@@ -3750,10 +3916,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:56:34.851Z",
+    "last_updated": "2026-08-23T07:58:02.365Z",
     "original_repository": "timschneeb/awesome-shizuku",
     "original_repository_id": 548171339,
-    "original_repository_sha": "4ffcbaddccb897d610f70e0efa075c69b8c7ea13",
+    "original_repository_sha": "c9d1bb93efe41ac68c134b111ac457d8db5d6cf3",
     "enhanced_repository": "enhansome/enhansome-shizuku",
     "enhanced_repository_description": null,
     "title": "awesome-shizuku with stars"
