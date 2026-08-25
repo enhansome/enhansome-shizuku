@@ -4,7 +4,7 @@
 
 English | [简体中文](/README_cn.md) | [繁體中文](/README_tw.md)
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,693 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,727 | 🐛 106 | 📅 2026-08-21
 
 Shizuku allows normal apps to use system APIs directly with elevated privileges using ADB on non-rooted devices. This list compiles a few apps that are known to make use of Shizuku's capabilities.
 
@@ -67,8 +67,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### AI agents
 
-* [Operit AI](https://github.com/AAswordman/Operit) ⭐ 7,256 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-24 - The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
-* [OpenMinis](https://github.com/OpenMinis/OpenMinis) ⭐ 3,941 | 🐛 127 | 🌐 Swift | 📅 2026-08-18 - AI-powered agent with Linux shell, browser automation, and system control via Shizuku `GPL-3.0`
+* [Operit AI](https://github.com/AAswordman/Operit) ⭐ 7,258 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-24 - The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
+* [OpenMinis](https://github.com/OpenMinis/OpenMinis) ⭐ 3,942 | 🐛 127 | 🌐 Swift | 📅 2026-08-18 - AI-powered agent with Linux shell, browser automation, and system control via Shizuku `GPL-3.0`
 * [OmniBot](https://github.com/omnimind-ai/OmniBot) ⭐ 1,920 | 🐛 23 | 🌐 Dart | 📅 2026-08-25 - On-device AI agent with terminal, web browsing, device control, and system integration `GPL-3.0`
 * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) ⭐ 706 | 🐛 11 | 🌐 Kotlin | 📅 2026-01-11 - Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window `Apache 2.0`
 * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android/blob/main/README_EN.md) ⭐ 362 | 🐛 15 | 🌐 Kotlin | 📅 2026-07-21 - Automates actions on your device using the AutoGLM vision language model `GPL-3.0`
@@ -91,7 +91,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Automation
 
-* [AutoJs6](https://github.com/SuperMonster003/AutoJs6) ⭐ 6,272 | 🐛 340 | 🌐 Java | 📅 2026-03-16 - JavaScript-based automation tool `MPL-2.0`
+* [AutoJs6](https://github.com/SuperMonster003/AutoJs6) ⭐ 6,275 | 🐛 340 | 🌐 Java | 📅 2026-03-16 - JavaScript-based automation tool `MPL-2.0`
 * [Geto](https://github.com/JackEblan/Geto) ⭐ 1,147 | 🐛 22 | 🌐 Kotlin | 📅 2026-07-29 - Automatically change device settings when a specific app is launched. `GPL-3.0`
 * [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) ⭐ 654 | 🐛 18 | 🌐 Java | 📅 2025-09-29 - Allows automatic or one-click configuration of your device for specific life situations `Apache-2.0`
 * [Tasker Settings](https://github.com/joaomgcd/TaskerSettings) ⭐ 594 | 🐛 14 | 🌐 Kotlin | 📅 2025-11-25 - Helper app for Tasker `Propietary`
@@ -99,7 +99,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Communication
 
 * [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) ⭐ 1,518 | 🐛 12 | 🌐 Java | 📅 2026-04-08 - An app that lets you browse the web over SMS `GPL-3.0`
-* [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) ⭐ 1,322 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-19 ✨ - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! `GPL-3.0`
+* [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) ⭐ 1,324 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-19 ✨ - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! `GPL-3.0`
 * [CatShare](https://f-droid.org/packages/moe.reimu.catshare/) - Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare) ⭐ 741 | 🐛 14 | 🌐 Kotlin | 📅 2026-02-25
 * [revenge-manager](https://github.com/revenge-mod/revenge-manager) ⭐ 697 | 🐛 18 | 🌐 Kotlin | 📅 2026-01-12 - Discord modding tool. Another continuation of the abandoned Bunny-Manager project `OSL-3.0`
 * [Aliucord-Manager](https://github.com/Aliucord/Manager) ⭐ 667 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-15 - Discord modding tool `OSL-3.0`
@@ -111,24 +111,24 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Customization
 
 * [TapTap](https://github.com/KieronQuinn/TapTap) ⭐ 4,021 | 🐛 16 | 🌐 Kotlin | 📅 2024-10-26 ✨ - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device `GPL-3.0`
-* [essentials](https://github.com/sameerasw/essentials) ⭐ 2,674 | 🐛 80 | 🌐 Kotlin | 📅 2026-08-25 ✨ - Essential tools, mods and workarounds for Pixels. Also compatible with other devices `MIT`
+* [essentials](https://github.com/sameerasw/essentials) ⭐ 2,674 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-25 ✨ - Essential tools, mods and workarounds for Pixels. Also compatible with other devices `MIT`
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) ⭐ 2,487 | 🐛 10 | 🌐 Kotlin | 📅 2024-09-07 - Port of Now Playing from Pixels to other Android devices `GPL-3.0`
 * [ShizuTools](https://github.com/legendsayantan/ShizuTools) ⭐ 2,455 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-28 - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
-* [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) ⭐ 2,401 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 - An application to modify Material You colors of your device `GPL-3.0`
+* [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) ⭐ 2,404 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 - An application to modify Material You colors of your device `GPL-3.0`
 * [LinkSheet](https://github.com/LinkSheet/LinkSheet) ⭐ 2,071 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-07 - Restore the Android <12 Url-App-Link-Chooser with Material3 `Modified MPL-2.0`
 * [System UI Tuner](https://github.com/zacharee/Tweaker) ⭐ 1,718 | 🐛 67 | 🌐 Kotlin | 📅 2026-08-22 - View and modify hidden settings on Android devices `MIT`
 * [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Transform your phone into a desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(Source code)](https://github.com/axel358/smartdock) ⭐ 1,402 | 🐛 42 | 🌐 Kotlin | 📅 2026-05-21
 * [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/) - Use a start menu to access apps. Shizuku can unlock additional features `Apache-2.0` [(Source code)](https://github.com/farmerbb/Taskbar) ⭐ 1,243 | 🐛 208 | 🌐 Java | 📅 2024-11-21
 * [Tarnhelm](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/) - Clean up tracking from sharing links. Supports custom URL rewrite rules `GPL-3.0` [(Source code)](https://github.com/lz233/Tarnhelm) ⭐ 783 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-13
 * [Language-Selector](https://github.com/VegaBobo/Language-Selector) ⭐ 762 | 🐛 8 | 🌐 Kotlin | 📅 2024-12-29 - Allows users to select individual app languages (Android 13+) `Apache-2.0`
-* [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) ⭐ 682 | 🐛 28 | 🌐 Kotlin | 📅 2024-02-10 - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `GPL-3.0`
+* [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) ⭐ 683 | 🐛 28 | 🌐 Kotlin | 📅 2024-02-10 - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `GPL-3.0`
 * [Extendroid](https://github.com/legendsayantan/Extendroid) ⭐ 673 | 🐛 7 | 🌐 Kotlin | 📅 2026-07-28 ✨ - Adds desktop-like multi-window support on Android for smartphones. `GPL-3.0`
 * [YoukiDEX](https://github.com/mrYouki/YoukiDex-Android-Desktop) ⭐ 541 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-21 - A full desktop experience layer for Android `GPL-3.0`
 * [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - Display widgets on the lockscreen. Shizuku is only required on Android 13 and later `MIT` [(Source code)](https://github.com/zacharee/LockscreenWidgets/) ⭐ 509 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-23
 * [DroidOS](https://github.com/Katsuyamaki/DroidOS) ⭐ 391 | 🐛 10 | 🌐 Kotlin | 📅 2026-05-04 ✨ - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
-* [gama](https://github.com/palincat/gama) ⭐ 379 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 - Can switch between OpenGL and Vulkan renderers by setting the `debug.hwui.renderer` system property `MIT`
+* [gama](https://github.com/palincat/gama) ⭐ 380 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 - Can switch between OpenGL and Vulkan renderers by setting the `debug.hwui.renderer` system property `MIT`
 * [Smart Edge](https://f-droid.org/en/packages/com.imi.smartedge.sidebar.panel/) - A highly customizable Android side panel inspired by OriginOS `MIT` [(Source code)](https://github.com/Imtiaz-Official/Smart-Edge) ⭐ 316 | 🐛 40 | 🌐 Kotlin | 📅 2026-06-13
-* [Dragon-Launcher](https://f-droid.org/packages/org.elnix.dragonlauncher/) ✨ - Highly customizable, gestures based Android launcher focused on speed and efficiency `GPL-3.0` [(Source code)](https://github.com/Elnix90/Dragon-Launcher) ⭐ 282 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-24
+* [Dragon-Launcher](https://f-droid.org/packages/org.elnix.dragonlauncher/) ✨ - Highly customizable, gestures based Android launcher focused on speed and efficiency `GPL-3.0` [(Source code)](https://github.com/Elnix90/Dragon-Launcher) ⭐ 283 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-24
 * [Adaptive-Theme](https://play.google.com/store/apps/details?id=dev.lexip.hecate) - Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/xLexip/Adaptive-Theme) ⭐ 202 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-24
 * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) ⭐ 201 | 🐛 42 | 🌐 Kotlin | 📅 2026-06-13 - Plugins for Smartspacer `GPL-3.0`
 * [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro) ⭐ 168 | 🐛 1 | 🌐 Kotlin | 📅 2026-01-20 - CPU and battery widgets `Proprietary`
@@ -149,14 +149,14 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) ⭐ 2,266 | 🐛 128 | 🌐 Kotlin | 📅 2024-03-13 - A simple app made to help users easily install GSIs via DSU's Android feature. `Apache-2.0`
 * [KeyAttestation](https://github.com/vvb2060/KeyAttestation) ⭐ 2,081 | 🐛 18 | 🌐 Java | 📅 2025-09-30 - Supports generating, saving, loading, parsing and verifying Android key and ID attestation data. `Proprietary`
 * [ActivityManager](https://github.com/sdex/ActivityManager) ⭐ 1,287 | 🐛 14 | 🌐 Kotlin | 📅 2026-07-25 - Launch hidden and unexported activities directly without root `Apache-2.0`
-* [LogFox](https://github.com/F0x1d/LogFox) ⭐ 1,280 | 🐛 19 | 🌐 Kotlin | 📅 2026-06-25 ✨ - Yet another logcat reader for Android `GPL-3.0`
+* [LogFox](https://github.com/F0x1d/LogFox) ⭐ 1,281 | 🐛 19 | 🌐 Kotlin | 📅 2026-06-25 ✨ - Yet another logcat reader for Android `GPL-3.0`
 * [Cosmic-IDE](https://github.com/aload0/Cosmic-IDE) ⭐ 711 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-21 - IDE for JVM development. Uses Shizuku for an embedded shell `GPL-3.0`
 * [wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) ⭐ 677 | 🐛 11 | 🌐 Kotlin | 📅 2026-05-26 - Widgets & quick settings tile to toggle wireless debugging (with KDE Connect integration) `GPL-3.0`
 * [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector) ⭐ 466 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-23
 * [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) ⭐ 322 | 🐛 5 | 🌐 Kotlin | 📅 2023-07-19 - Dump package names of apps that have registered an account for a user. `Proprietary`
 * [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher) `Paid` 💰 - Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. `GPL-3.0` [(Source code)](https://github.com/zacharee/RootActivityLauncher) ⭐ 286 | 🐛 6 | 🌐 Kotlin | 📅 2025-09-29
 * [CurrentActivity](https://github.com/Omico/CurrentActivity) ⭐ 280 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-04 - A current activity monitor `GPL-3.0`
-* [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) ⭐ 128 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-02 - Real-time performance overlay for Android `MIT`
+* [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) ⭐ 129 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-02 - Real-time performance overlay for Android `MIT`
 * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) ⭐ 58 | 🐛 0 | 🌐 Java | 📅 2025-07-15 - Fixes MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp. `Proprietary`
 * [FPSViewer](https://github.com/binhmod/FPSViewer) ⭐ 56 | 🐛 3 | 🌐 Java | 📅 2026-05-21 - FPS viewer overlay with graph `Proprietary`
 * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) ⭐ 43 | 🐛 2 | 🌐 Kotlin | 📅 2025-01-18 - Utilizes Shizuku to call AppOps APIs for fine-grained app permission control `MIT`
@@ -165,8 +165,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Device owner (DPM)
 
-* [Dhizuku](https://github.com/iamr0s/Dhizuku) ⭐ 3,728 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-24 - Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps `GPL-3.0`
-* [OwnDroid](https://github.com/BinTianqi/OwnDroid) ⭐ 1,341 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 - Manage your device with Device owner privileges `GPL-3.0`
+* [Dhizuku](https://github.com/iamr0s/Dhizuku) ⭐ 3,729 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-24 - Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps `GPL-3.0`
+* [OwnDroid](https://github.com/BinTianqi/OwnDroid) ⭐ 1,342 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 - Manage your device with Device owner privileges `GPL-3.0`
   * [MDPC](https://github.com/MrRare2/MDPC) ⭐ 114 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-13 - Fork of OwnDroid with added features `GPL-3.0`
 * [harbor](https://f-droid.org/packages/com.monstera.harbor/) - Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor) ⭐ 20 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-21
 
@@ -176,7 +176,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [Dextop](https://github.com/NarYuki/Dextop) ⭐ 169 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 - Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution `GPL-3.0`
 * [Grayscaler](https://github.com/C10udburst/Grayscaler) ⭐ 162 | 🐛 6 | 🌐 Kotlin | 📅 2025-02-18 - Keep your phone mostly monochrome, but allow apps like camera to be in color `GPL-3.0`
 * [android-display-mirror](https://github.com/jqssun/android-display-mirror) ⭐ 152 | 🐛 10 | 🌐 C++ | 📅 2026-08-24 ✨ - Screen mirroring hub with support for sharing screen content over AirPlay, Moonlight/Sunshine, and DisplayLink `GPL-3.0`
-* [android-display-extend](https://github.com/jqssun/android-display-extend) ⭐ 145 | 🐛 6 | 🌐 Java | 📅 2026-07-22 ✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with `scrcpy --new-display` on a PC `GPL-3.0`
+* [android-display-extend](https://github.com/jqssun/android-display-extend) ⭐ 146 | 🐛 6 | 🌐 Java | 📅 2026-07-22 ✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with `scrcpy --new-display` on a PC `GPL-3.0`
 * [Fold\_Switcher](https://github.com/eiyooooo/Fold_Switcher) ⭐ 89 | 🐛 5 | 🌐 Kotlin | 📅 2025-06-10 - Switch between various display folding states on foldable devices `Apache-2.0`
 * [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) ⭐ 68 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-20 - Automatically switches display refresh rate between 60Hz and 120Hz based on user interaction. Designed for Samsung devices without true adaptive refresh `MIT`
 * [deskcontrol](https://github.com/exiarepairii/deskcontrol) ⭐ 59 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-08 - Turns your phone into a touchpad and keyboard for a single app running on a wired external display `GPL-3.0`
@@ -184,7 +184,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Entertainment
 
-* [Mihon](https://github.com/mihonapp/mihon) ⭐ 23,102 | 🐛 723 | 🌐 Kotlin | 📅 2026-08-23 - Manga reader using Shizuku plugin management. Independent successor of Tachiyomi. `Apache-2.0`
+* [Mihon](https://github.com/mihonapp/mihon) ⭐ 23,102 | 🐛 724 | 🌐 Kotlin | 📅 2026-08-23 - Manga reader using Shizuku plugin management. Independent successor of Tachiyomi. `Apache-2.0`
   * Mihon/Tachiyomi has several other active forks, including [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) ⭐ 4,112 | 🐛 311 | 🌐 Kotlin | 📅 2026-08-18 and [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) ⭐ 725 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-24
 * [Aniyomi](https://github.com/aniyomiorg/aniyomi) ⭐ 7,625 | 🐛 375 | 🌐 Kotlin | 📅 2026-08-19 - Tachiyomi fork with anime support and plugin management using Shizuku. `Apache-2.0`
 * [BiliDownOut](https://f-droid.org/packages/cn.a10miaomiao.bilidown/) - Export videos downloaded from the Android version of Bilibili `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out) ⭐ 374 | 🐛 15 | 🌐 Kotlin | 📅 2026-07-19
@@ -193,9 +193,9 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### File management
 
 * [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,358 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-24
-* [NFile](https://github.com/Senzme/NFile) ⭐ 377 | 🐛 59 | 🌐 Dart | 📅 2026-08-11 - File manager with Android folder access using Shizuku `GPL-3.0`
+* [NFile](https://github.com/Senzme/NFile) ⭐ 378 | 🐛 59 | 🌐 Dart | 📅 2026-08-11 - File manager with Android folder access using Shizuku `GPL-3.0`
 * [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - An file manager and archive viewer with Android TV support. Supports full file access using Shizuku, if enabled in settings `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy) ⭐ 182 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20
-* [ZenFile](https://github.com/l930203811/ZenFile) ⭐ 118 | 🐛 4 | 🌐 Dart | 📅 2026-08-22 - NFile fork with built-in remote file server support `GPL-3.0`
+* [ZenFile](https://github.com/l930203811/ZenFile) ⭐ 119 | 🐛 4 | 🌐 Dart | 📅 2026-08-22 - NFile fork with built-in remote file server support `GPL-3.0`
 * [XFiles](https://github.com/Local1stDotApp/XFiles) ⭐ 25 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-15 - Offline file manager with root and Shizuku support for full filesystem access `GPL-3.0`
 
 > \[!NOTE]
@@ -220,7 +220,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Input methods
 
-* [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) ✨ - An Android app that changes what the buttons do on your devices! `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper) ⭐ 2,609 | 🐛 203 | 🌐 Kotlin | 📅 2026-08-11
+* [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) ✨ - An Android app that changes what the buttons do on your devices! `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper) ⭐ 2,610 | 🐛 203 | 🌐 Kotlin | 📅 2026-08-11
 * [XtMapper](https://github.com/Xtr126/XtMapper) ⭐ 431 | 🐛 35 | 🌐 Java | 📅 2026-07-18 - Keymapper for Android x86 `GPL-3.0`
 * [pastiera](https://github.com/palsoftware/pastiera) ⭐ 188 | 🐛 54 | 🌐 Kotlin | 📅 2026-08-20 - Android keyboard specialized for Physical Keyboard Devices. Uses Shizuku for trackpad gestures `GPL-3.0`
 * [keysync](https://github.com/aka-munan/keysync) ⭐ 143 | 🐛 11 | 🌐 Kotlin | 📅 2026-02-26 - Play games using mouse and keyboard on Android device; keymapper for games `Apache-2.0`
@@ -233,18 +233,18 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 * [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 19,235 | 🐛 388 | 🌐 Dart | 📅 2026-08-24 - Get Android App Updates Directly From the Source `GPL-3.0`
   * [ObtainX](https://f-droid.org/packages/dev.bikram.obtainx/) - Obtainium fork with Material 3 UI redesign `GPL-3.0` [(Source code)](https://github.com/bikram-agarwal/ObtainX) ⭐ 1,035 | 🐛 10 | 🌐 Dart | 📅 2026-08-24
-* [GitHub-Store](https://f-droid.org/packages/zed.rainxch.githubstore/) - App store for GitHub releases with discovery function `Apache-2.0` [(Source code)](https://github.com/kurikomi-labs/komi-store) ⭐ 17,925 | 🐛 114 | 🌐 Kotlin | 📅 2026-07-29
+* [GitHub-Store](https://f-droid.org/packages/zed.rainxch.githubstore/) - App store for GitHub releases with discovery function `Apache-2.0` [(Source code)](https://github.com/kurikomi-labs/komi-store) ⭐ 17,930 | 🐛 114 | 🌐 Kotlin | 📅 2026-07-29
 * [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client) ⭐ 7,309 | 🐛 200 | 🌐 Kotlin | 📅 2026-08-24
-* [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐ 6,286 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-25 ✨ - Modern and functional Android app installer replacement `GPL-3.0`
+* [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐ 6,287 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-25 ✨ - Modern and functional Android app installer replacement `GPL-3.0`
 * [Neo-Store](https://f-droid.org/packages/com.machiav3lli.fdroid/) - An F-Droid client with modern UI and an arsenal of extra features `GPL-3.0` [(Source code)](https://github.com/NeoApplications/Neo-Store) ⭐ 4,933 | 🐛 129 | 🌐 Kotlin | 📅 2026-04-25
 * [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI) ⭐ 3,802 | 🐛 0 | 🌐 Java | 📅 2024-06-03
 * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) ⭐ 3,177 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-11 - Simple-ish app using Shizuku to install APKs on-device with advanced options `MIT`
-* [Orion Store](https://github.com/RookieEnough/Orion-Store) ⭐ 3,159 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-17 - App store for modded apps `GPL-3.0`
-* [universal-installer](https://github.com/pass-with-high-score/universal-installer) ⭐ 1,296 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-23 - Install and manage APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning `GPL-3.0`
+* [Orion Store](https://github.com/RookieEnough/Orion-Store) ⭐ 3,160 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-17 - App store for modded apps `GPL-3.0`
+* [universal-installer](https://github.com/pass-with-high-score/universal-installer) ⭐ 1,298 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-23 - Install and manage APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning `GPL-3.0`
 * [instafel](https://github.com/mamiiblt/instafel) ⭐ 1,248 | 🐛 13 | 🌐 Java | 📅 2026-08-21 - Updater app for Instafel, an Instagram mod `MIT`
 * [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - FFUpdater: Updater for privacy-friendly browser `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater) ⭐ 1,080 | 🐛 88 | 🌐 Kotlin | 📅 2026-06-27
-* [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) ⭐ 697 | 🐛 8 | 🌐 Kotlin | 📅 2025-08-12 - A lightweight app installer replacement with split APK support `Apache-2.0`
-* [PI](https://github.com/SanmerApps/PI) ⭐ 696 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24 - Package installer that allows overwriting the package requester and executor `MIT`
+* [PI](https://github.com/SanmerApps/PI) ⭐ 696 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-25 - Package installer that allows overwriting the package requester and executor `MIT`
+* [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) ⭐ 696 | 🐛 8 | 🌐 Kotlin | 📅 2025-08-12 - A lightweight app installer replacement with split APK support `Apache-2.0`
 * [florid](https://github.com/Nandanrmenon/florid) ⭐ 499 | 🐛 46 | 🌐 Dart | 📅 2026-06-16 - Material3 F‑Droid Client `GPL-3.0`
 * [BHub](https://github.com/B1ays/BHub) ⭐ 355 | 🐛 4 | 🌐 Kotlin | 📅 2025-10-01 - Download, install and share mods easily `Proprietary`
 * [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) ⭐ 307 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-23 - Shizuku-powered app manager with silent installs, updates, and batch operations `GPL-3.0`
@@ -264,30 +264,30 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Network
 
-* [sing-box](https://f-droid.org/packages/io.nekohasekai.sfa/) - Universal proxy platform. Uses Shizuku for per-app proxying `GPL-3.0` [(Source code)](https://github.com/SagerNet/sing-box) ⭐ 37,247 | 🐛 285 | 🌐 Go | 📅 2026-08-25
+* [sing-box](https://f-droid.org/packages/io.nekohasekai.sfa/) - Universal proxy platform. Uses Shizuku for per-app proxying `GPL-3.0` [(Source code)](https://github.com/SagerNet/sing-box) ⭐ 37,250 | 🐛 286 | 🌐 Go | 📅 2026-08-25
 * [WG Tunnel](https://github.com/wgtunnel/android) ⭐ 3,079 | 🐛 107 | 🌐 Kotlin | 📅 2026-08-25 - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
 * [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ⭐ 2,167 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 ✨ - Open-source app firewall that doesn't depend on VPNs or root `GPL-3.0`
-* [Traffic Light](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light) ⭐ 822 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-13
+* [Traffic Light](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light) ⭐ 821 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-13
 * [ADNS](https://github.com/eyalm2000/adns) ⭐ 561 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-24 - DNS-based ad blocker for Android `MIT`
 * [delta](https://github.com/supershadoe/delta) ⭐ 554 | 🐛 17 | 🌐 Kotlin | 📅 2026-05-02 - Hotspot manager using Shizuku `BSD-3-Clause`
 * [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) ⭐ 439 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-20 - Android app for 4G/5G network mode switching `GPL-3.0`
-* [de1984](https://github.com/dorumrr/de1984) ⭐ 372 | 🐛 15 | 🌐 Kotlin | 📅 2026-08-25 - App firewall without using an VPN; can also manage packages `MIT`
+* [de1984](https://github.com/dorumrr/de1984) ⭐ 373 | 🐛 15 | 🌐 Kotlin | 📅 2026-08-25 - App firewall without using an VPN; can also manage packages `MIT`
 * [wifi-password-manager](https://github.com/Khh-vu/wifi-password-manager) ⭐ 283 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-25 - Simple app using Shizuku to manage & view saved Wi-Fi passwords `MIT`
 * [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList) ⭐ 264 | 🐛 9 | 🌐 Kotlin | 📅 2025-01-18
-* [FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks) ⭐ 215 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-09 - Dual-mode firewall: blocks internet access using Shizuku or a standard local VPN interface or both. `MIT`
+* [FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks) ⭐ 214 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-09 - Dual-mode firewall: blocks internet access using Shizuku or a standard local VPN interface or both. `MIT`
 * [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) `Paid` 💰 - Can read cell tower info on Android `MIT` [(Source code)](https://github.com/zacharee/CellReader) ⭐ 90 | 🐛 0 | 🌐 Kotlin | 📅 2025-09-20
 * [Dolphy-App](https://github.com/unvoiddd/Dolphy-App) ⭐ 62 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-19 - NFC, BLE, and IR multi-tool for wireless protocol research `GPL-3.0`
 * [Hostman](https://github.com/LinZong/Hostman) ⭐ 54 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-31 `Root` - Preview & edit the /etc/hosts file `MIT`
 * [EasySpot](https://github.com/EasySpotApp/EasySpot) ⭐ 49 | 🐛 1 | 🌐 Kotlin | 📅 2025-10-26 - An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone `GPL-3.0`
 * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) ⭐ 45 | 🐛 2 | 🌐 Java | 📅 2024-10-30 - A simple application to run Naiveproxy on Android `MIT`
 * [NetToggle](https://github.com/Dhangofa/NetToggle) ⭐ 25 | 🐛 0 | 🌐 Java | 📅 2026-08-19 - A lightweight Android Quick Settings tile to force 5G Only, 4G Only and preferred network modes using Root or Shizuku `GPL-3.0`
-* [Shizzi](https://github.com/carlelieser/shizzi) ⭐ 19 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-22 - Rootless Wi-Fi tethering bypass via Shizuku `Proprietary`
+* [Shizzi](https://github.com/carlelieser/shizzi) ⭐ 20 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-22 - Rootless Wi-Fi tethering bypass via Shizuku `Proprietary`
 * [FindMyDevice](https://gitlab.com/fmd-foss/fmd-android) - Secure & open-source alternative to Google's FindMyDevice service. `GPL-3.0`
 
 ### Patching
 
-* [Morphe](https://morphe.software/) - User-friendly YouTube patcher based on Universal-ReVanced-Manager `GPL-3.0` [(Source code)](https://github.com/MorpheApp/morphe-manager) ⭐ 7,418 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-25
-* [LSPatch](https://github.com/JingMatrix/LSPatch) ⭐ 3,732 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 - A non-root Xposed framework extending from LSPosed `GPL-3.0`
+* [Morphe](https://morphe.software/) - User-friendly YouTube patcher based on Universal-ReVanced-Manager `GPL-3.0` [(Source code)](https://github.com/MorpheApp/morphe-manager) ⭐ 7,422 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-25
+* [LSPatch](https://github.com/JingMatrix/LSPatch) ⭐ 3,734 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 - A non-root Xposed framework extending from LSPosed `GPL-3.0`
 * [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) ⭐ 1,276 | 🐛 54 | 🌐 Kotlin | 📅 2026-08-20 - ReVanced patcher that has extra features the official manager doesn't have `GPL-3.0`
 
 ### Power management
@@ -297,8 +297,8 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) ⭐ 262 | 🐛 14 | 🌐 Java | 📅 2025-01-14 - Turn off your Android's screen without entering standby/sleep mode `Proprietary`
 * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) ⭐ 249 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-20 - Advanced reboot menu with Shizuku support `Apache-2.0`
 * [BatStats](https://github.com/mlm-games/BatStats) ⭐ 173 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-24 - Battery monitor with stats via Shizuku `GPL-3.0`
-* [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) ⭐ 62 | 🐛 41 | 🌐 Kotlin | 📅 2026-08-24 - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
-* [sleep-timer](https://github.com/Xitee1/sleep-timer) ⭐ 49 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-10 - Sleep timer that can pause media, and turn off WIFI/Bluetooth/Display `GPL-3.0`
+* [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) ⭐ 63 | 🐛 41 | 🌐 Kotlin | 📅 2026-08-24 - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
+* [sleep-timer](https://github.com/Xitee1/sleep-timer) ⭐ 50 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-10 - Sleep timer that can pause media, and turn off WIFI/Bluetooth/Display `GPL-3.0`
 * [zukulock](https://github.com/tiendnm/zukulock) ⭐ 46 | 🐛 0 | 🌐 Kotlin | 📅 2025-08-19 - Very lightweight app that locks the screen when launched. Helps reduce wear on the power button `MIT`
 * [Amply](https://github.com/d4rken-org/amply) ⭐ 26 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-23 - Easy control of charging limits. Temporarily allows one full charge, then automatically restores your protective charge limit `GPL-3.0`
 * [battery-stats-changer](https://github.com/superisuer/battery-stats-changer) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2025-12-28 - Open source app to visually change battery data via Shizuku `GPL-3.0`
@@ -313,14 +313,14 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Productivity
 
-* [Curbox](https://f-droid.org/packages/neth.iecal.curbox/) ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(Source code)](https://github.com/curbox-app/curbox-android) ⭐ 1,229 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-18
+* [Curbox](https://f-droid.org/packages/neth.iecal.curbox/) ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(Source code)](https://github.com/curbox-app/curbox-android) ⭐ 1,231 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-18
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) ⭐ 508 | 🐛 51 | 🌐 Kotlin | 📅 2026-07-27 - Digital Detoxing: Use your phone rather than letting your phone use you `GPL-3.0`
 * [Blink](https://github.com/character-flat/Blink) ⭐ 16 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-17 - A persistent, highly customizable 20-20-20 rule eye-care timer that uses Shizuku to whitelist itself from Android's battery optimizations `GPL-3.0`
 
 ### Quick settings
 
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) ⭐ 1,027 | 🐛 13 | 🌐 Kotlin | 📅 2026-07-29 - Quick settings tile to switch active private DNS server `MIT`
-* [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings) ⭐ 345 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-24
+* [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings) ⭐ 344 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-24
 * [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better-unified internet tile `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) ⭐ 257 | 🐛 32 | 🌐 Kotlin | 📅 2025-05-12
 * [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting on or off `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs) ⭐ 125 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-20
 * [SensorsOff](https://github.com/LinerSRT/SensorsOff) ⭐ 102 | 🐛 2 | 🌐 Java | 📅 2023-09-17 - Enable/Disable device sensors via quick settings `Apache-2.0`
@@ -332,11 +332,11 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Software management
 
 * [Hail](https://f-droid.org/packages/com.aistra.hail/) ✨ - Freeze, hide, or disable any app. Create and organize app groups that can be frozen with one click. `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail) ⭐ 6,520 | 🐛 169 | 🌐 Kotlin | 📅 2026-08-12
-* [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta) ⭐ 5,630 | 🐛 30 | 🌐 Kotlin | 📅 2026-08-24
+* [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta) ⭐ 5,631 | 🐛 30 | 🌐 Kotlin | 📅 2026-08-24
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Isolate and clone apps for privacy protection and parallel running `Apache-2.0` [(Source code)](https://github.com/oasisfeng/island) ⭐ 3,882 | 🐛 667 | 🌐 Java | 📅 2025-04-24
 * [Blocker](https://github.com/lihenggui/blocker) ⭐ 2,371 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-25 - Enable/disable Android components such as activities, services, receivers, and providers `Apache-2.0`
 * [MMRL](https://github.com/MMRLApp/MMRL) ⭐ 2,140 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-18 `Root` - Manage your Magisk module repository `GPL-3.0`
-* [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play) `15-day trial` `IAP` 💰 - Android app manager for both rooted and non-rooted devices `GPL-3.0` [(Source code)](https://github.com/Hamza417/Inure) ⭐ 1,892 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-25
+* [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play) `15-day trial` `IAP` 💰 - Android app manager for both rooted and non-rooted devices `GPL-3.0` [(Source code)](https://github.com/Hamza417/Inure) ⭐ 1,892 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-25
 * [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - Check updates for Android apps, Magisk modules and more! `GPL-3.0` [(Source code)](https://github.com/DUpdateSystem/UpgradeAll) ⭐ 1,332 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-24
 * [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - A powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager) ⭐ 813 | 🐛 71 | 🌐 Java | 📅 2026-08-24
 * [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - App manager with freeze and install capabilities. `GPL-3.0` [(Source code)](https://github.com/trinadhthatakula/Thor) ⭐ 523 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-25
@@ -350,7 +350,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Task manager
 
 * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) ⭐ 615 | 🐛 4 | 🌐 C++ | 📅 2026-08-18 - A Task Manager for Android. Killing processes requires root access. `Apache-2.0`
-* [shappky](https://github.com/YasserNull/shappky) ⭐ 538 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-24 ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
+* [shappky](https://github.com/YasserNull/shappky) ⭐ 538 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-25 ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
 * [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor) ⭐ 410 | 🐛 5 | 🌐 Dart | 📅 2026-07-12
 * [Pensum](https://github.com/troikoss/Pensum) ⭐ 168 | 🐛 1 | 🌐 Kotlin | 📅 2026-03-30 ✨ - Windows-style Task Manager for Android `GPL-3.0`
 * [ReAppzuku](https://github.com/gree1d/ReAppzuku) ⭐ 163 | 🐛 0 | 🌐 Java | 📅 2026-08-04 - Control and manage background applications. Fork of shappky `GPL-3.0`
@@ -359,10 +359,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 ### Terminals
 
-* [Haven](https://f-droid.org/packages/sh.haven.app/) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0` [(Source code)](https://github.com/GlassHaven/Haven) ⭐ 1,107 | 🐛 48 | 🌐 Kotlin | 📅 2026-08-25
+* [Haven](https://f-droid.org/packages/sh.haven.app/) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0` [(Source code)](https://github.com/GlassHaven/Haven) ⭐ 1,109 | 🐛 49 | 🌐 Kotlin | 📅 2026-08-25
 * [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) ⭐ 631 | 🐛 9 | 🌐 C | 📅 2026-08-22 ✨ - Sleek, Material 3-inspired terminal emulator based on Termux's robust TerminalView `MIT`
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) - A local ADB shell for Shizuku-powered Android devices `GPL-3.0`
-  * [aShell You](https://github.com/DP-Hridayan/aShellYou) ⭐ 2,220 | 🐛 36 | 🌐 Kotlin | 📅 2026-08-25 - Material You Redesign of aShell app. `GPL-3.0`
+  * [aShell You](https://github.com/DP-Hridayan/aShellYou) ⭐ 2,220 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-25 - Material You Redesign of aShell app. `GPL-3.0`
 
 > \[!NOTE]
 > Using [rish](pages/RISH.md), you can create a local ADB shell with any terminal emulator, such as Termux.
@@ -372,17 +372,17 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 #### Google Pixel
 
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) ⭐ 3,484 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-08 - Customizable widget, can upgrade the built-in 'At a glance' widget on Pixel devices using Shizuku `GPL-3.0`
-* [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) ⭐ 2,989 | 🐛 95 | 🌐 Kotlin | 📅 2026-02-07 - Enable VoLTE on Pixel 6 & 7 with LG U+ `GPL-3.0`
+* [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) ⭐ 2,990 | 🐛 95 | 🌐 Kotlin | 📅 2026-02-07 - Enable VoLTE on Pixel 6 & 7 with LG U+ `GPL-3.0`
 * [TurboIMS](https://github.com/Turbo1123/TurboIMS) ⭐ 364 | 🐛 5 | 🌐 Java | 📅 2025-10-17 - Enhanced IMS Configuration Tool for Google Pixel devices `Apache-2.0`
-* [hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) ⭐ 226 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-23 - Pixel 11 HiLight LED controller for custom notification and status light effects `MIT`
+* [hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) ⭐ 227 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-25 - Pixel 11 HiLight LED controller for custom notification and status light effects `MIT`
 * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings) ⭐ 207 | 🐛 1 | 🌐 Kotlin | 📅 2026-01-02 - Enable VoLTE for carriers in unsupported regions on Pixel devices `GPL-3.0`
-* [Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) ⭐ 206 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-24 - Root automation for Pixel devices via CVE-2026-43499 exploit `Proprietary`
+* [Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) ⭐ 206 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-24 - Root automation for Pixel devices via CVE-2026-43499 exploit `Proprietary`
 * [Always On Display](https://f-droid.org/packages/org.alberto97.aodtoggle/) - Toggle Always on Display from the quick settings panel `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle) ⭐ 86 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-16
 * [Pixel-IMS-5G](https://github.com/barrylk/Pixel-IMS-5G) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-04 - Enable 5G standalone (5G SA) and VoNR on Google Pixel devices `GPL-3.0`
 
 #### Samsung OneUI
 
-* [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 913 | 🐛 374 | 🌐 Kotlin | 📅 2026-08-24 - KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 `Apache-2.0`
+* [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 916 | 🐛 375 | 🌐 Kotlin | 📅 2026-08-24 - KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 `Apache-2.0`
 * [SMTShell](https://github.com/BLuFeNiX/SMTShell) ⭐ 245 | 🐛 5 | 🌐 Java | 📅 2023-06-15 - Privilege escalation exploit [(CVE-2019-16253)](https://nvd.nist.gov/vuln/detail/CVE-2019-16253) to system user access (UID 1000) on non-rooted devices running up to OneUI 5. Uses Shizuku for automation `LGPL-2.1`
 * [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks) ⭐ 149 | 🐛 1 | 🌐 Java | 📅 2026-04-18 - Enable or disable fast charging mode on Samsung devices when the battery temperature reaches a certain point  `Proprietary`
 * [ScamsungFonts](https://github.com/KhunHtetzNaing/ScamsungFonts) ⭐ 25 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-03 - Font manager for Samsung Galaxy (OneUI) via System shell or Root `No license`
@@ -400,7 +400,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 
 #### Other
 
-* [ClusterTune](https://github.com/AurelioB/ClusterTune) ⭐ 280 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-23 - Tune CPU cluster frequencies to balance performance and power on AYN handheld devices `GPL-2.0`
+* [ClusterTune](https://github.com/AurelioB/ClusterTune) ⭐ 281 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-23 - Tune CPU cluster frequencies to balance performance and power on AYN handheld devices `GPL-2.0`
 * [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) ⭐ 23 | 🐛 1 | 🌐 Java | 📅 2026-08-16 - Synchronized volume control for the dual displays of the AYN Thor `MIT`
 * [RedTrigger](https://github.com/zampierilucas/RedTrigger) ⭐ 13 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-21 - System-wide shoulder triggers for Nubia Red Magic phones `MIT`
 * [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) ⭐ 3 | 🐛 2 | 🌐 Kotlin | 📅 2026-01-10 - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light `Proprietary`
@@ -429,7 +429,7 @@ To keep the main list clean, all apps that have been deprecated or abandoned are
 
 ### Core
 
-* [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) ⭐ 2,478 | 🐛 308 | 🌐 Java | 📅 2025-05-29 - Developer documentation for Shizuku and Sui, including examples `Apache-2.0`
+* [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) ⭐ 2,478 | 🐛 310 | 🌐 Java | 📅 2025-05-29 - Developer documentation for Shizuku and Sui, including examples `Apache-2.0`
 * [Shizuku-Plugin (Flutter)](https://github.com/santhosh-D-subramani/Shizuku-Plugin) ⭐ 39 | 🐛 2 | 🌐 HTML | 📅 2026-08-17 - Shizuku API bindings for Flutter apps `GPL-3.0`
 
 ### Filesystem
