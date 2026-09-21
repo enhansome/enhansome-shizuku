@@ -21,7 +21,7 @@
                 "open_issues": 79,
                 "owner": "thedjchi",
                 "repo": "Shizuku",
-                "stars": 5841,
+                "stars": 5858,
                 "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
@@ -39,10 +39,10 @@
                 "language": "Kotlin",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-19T19:22:06Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "roro2239",
                 "repo": "Stellar",
-                "stars": 1429,
+                "stars": 1434,
                 "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
@@ -60,10 +60,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T07:53:38Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "HmnDev-Tech",
                 "repo": "shevery",
-                "stars": 1112,
+                "stars": 1128,
                 "topics": [
                   "adb",
                   "android17",
@@ -91,7 +91,7 @@
                 "open_issues": 35,
                 "owner": "thejaustin",
                 "repo": "ShizukuPlus",
-                "stars": 1064,
+                "stars": 1082,
                 "topics": [
                   "adb",
                   "android",
@@ -104,6 +104,27 @@
                 ]
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Porter",
+              "description": "Minimal, maintained Shizuku fork that gives apps ADB access with optional root, plus a compatibility companion for Shizuku-only apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ADB access for your apps. A minimal, maintained Shizuku fork.",
+                "homepage": "https://porter.darken.eu",
+                "id": 1360475803,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T14:18:58Z",
+                "open_issues": 1,
+                "owner": "d4rken-org",
+                "repo": "porter",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-09-21T14:28:44.777Z"
             },
             {
               "node_type": "item",
@@ -121,7 +142,7 @@
                 "open_issues": 3,
                 "owner": "cr1437",
                 "repo": "Shizako",
-                "stars": 24,
+                "stars": 26,
                 "topics": [
                   "adb",
                   "android",
@@ -167,10 +188,10 @@
                 "language": "Kotlin",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-20T07:16:33Z",
-                "open_issues": 99,
+                "open_issues": 113,
                 "owner": "AAswordman",
                 "repo": "Operit",
-                "stars": 8016,
+                "stars": 8046,
                 "topics": [
                   "agent",
                   "ai",
@@ -198,10 +219,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-01T18:24:55Z",
-                "open_issues": 215,
+                "open_issues": 218,
                 "owner": "OpenMinis",
                 "repo": "OpenMinis",
-                "stars": 4569,
+                "stars": 4589,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -222,7 +243,7 @@
                 "open_issues": 40,
                 "owner": "Turbo1123",
                 "repo": "roubao",
-                "stars": 2358,
+                "stars": 2361,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -249,10 +270,10 @@
                 "language": "Dart",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-20T11:45:47Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "omnimind-ai",
                 "repo": "OmniBot",
-                "stars": 2001,
+                "stars": 2002,
                 "topics": [
                   "agent",
                   "ai",
@@ -286,7 +307,7 @@
                 "open_issues": 7,
                 "owner": "ZJU-REAL",
                 "repo": "ClawGUI",
-                "stars": 1348,
+                "stars": 1349,
                 "topics": [
                   "agentrl",
                   "guiagents",
@@ -314,7 +335,7 @@
                 "open_issues": 4,
                 "owner": "yashab-cyber",
                 "repo": "opendroid",
-                "stars": 1059,
+                "stars": 1064,
                 "topics": [
                   "accessibility",
                   "ai-agent",
@@ -344,7 +365,7 @@
                 "open_issues": 11,
                 "owner": "iamr0s",
                 "repo": "Ruto-GLM",
-                "stars": 716,
+                "stars": 717,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -365,7 +386,7 @@
                 "open_issues": 6,
                 "owner": "Zhou-Shilin",
                 "repo": "Aether",
-                "stars": 662,
+                "stars": 667,
                 "topics": [
                   "aether",
                   "agent",
@@ -396,7 +417,7 @@
                 "open_issues": 5,
                 "owner": "opencyvis",
                 "repo": "opencyvis-phone",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-09-08T12:15:30.396Z"
@@ -417,7 +438,7 @@
                 "open_issues": 15,
                 "owner": "xinzezhu",
                 "repo": "Open-AutoGLM-Android",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -434,7 +455,7 @@
                 "id": 1282882227,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-14T00:18:13Z",
+                "last_commit": "2026-09-21T00:15:11Z",
                 "open_issues": 4,
                 "owner": "turin-dev",
                 "repo": "rish-mcp",
@@ -473,10 +494,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-13T18:26:41Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Benjamin-Wiegand",
                 "repo": "Flywheel",
-                "stars": 31,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
@@ -504,7 +525,7 @@
                 "open_issues": 16,
                 "owner": "mlm-games",
                 "repo": "flicky",
-                "stars": 427,
+                "stars": 428,
                 "topics": [
                   "android",
                   "androidtv",
@@ -532,7 +553,7 @@
                 "open_issues": 3,
                 "owner": "mlm-games",
                 "repo": "Fluffy",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -578,10 +599,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-31T04:26:24Z",
-                "open_issues": 142,
+                "open_issues": 141,
                 "owner": "timschneeb",
                 "repo": "RootlessJamesDSP",
-                "stars": 1672,
+                "stars": 1674,
                 "topics": [
                   "android",
                   "audio",
@@ -612,7 +633,7 @@
                 "open_issues": 20,
                 "owner": "yume-chan",
                 "repo": "VolumeManager",
-                "stars": 562,
+                "stars": 563,
                 "topics": [
                   "adb",
                   "android",
@@ -638,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "papergray",
                 "repo": "MicUp",
-                "stars": 159,
+                "stars": 160,
                 "topics": [
                   "android",
                   "audio-processing",
@@ -666,7 +687,7 @@
                 "open_issues": 10,
                 "owner": "noel-digital-fan",
                 "repo": "volume_plus_plus",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -687,7 +708,7 @@
                 "open_issues": 0,
                 "owner": "qumolangmo",
                 "repo": "wecho",
-                "stars": 105,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -783,7 +804,7 @@
                 "open_issues": 0,
                 "owner": "elhizazi1",
                 "repo": "Castix",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "accessibility",
                   "android-app",
@@ -826,7 +847,7 @@
                 "open_issues": 343,
                 "owner": "SuperMonster003",
                 "repo": "AutoJs6",
-                "stars": 6375,
+                "stars": 6386,
                 "topics": [
                   "android",
                   "autojs",
@@ -923,7 +944,7 @@
                 "open_issues": 4,
                 "owner": "soul-99",
                 "repo": "SU_IMD",
-                "stars": 314,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-09-08T12:15:30.396Z"
@@ -944,7 +965,7 @@
                 "open_issues": 13,
                 "owner": "tianxing-ovo",
                 "repo": "AutoSlide",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "accessibility-service",
                   "android",
@@ -974,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "SysAdminDoc",
                 "repo": "OpenTasker",
-                "stars": 82,
+                "stars": 87,
                 "topics": [
                   "android",
                   "android-automation",
@@ -1027,7 +1048,7 @@
                 "open_issues": 0,
                 "owner": "sklndev",
                 "repo": "Service-Keeper",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "accessibility",
                   "android",
@@ -1053,8 +1074,8 @@
                 "id": 1321214700,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-20T05:58:00Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T14:28:36Z",
+                "open_issues": 7,
                 "owner": "Alaa91H",
                 "repo": "NexaFlow",
                 "stars": 22,
@@ -1108,7 +1129,7 @@
                 "id": 1355569477,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T09:10:29Z",
+                "last_commit": "2026-09-20T16:03:11Z",
                 "open_issues": 0,
                 "owner": "Dvorinka",
                 "repo": "Nothing_Modes",
@@ -1140,7 +1161,7 @@
                 "open_issues": 14,
                 "owner": "kitsumed",
                 "repo": "ShizuCallRecorder",
-                "stars": 1544,
+                "stars": 1553,
                 "topics": [
                   "adb",
                   "android",
@@ -1191,7 +1212,7 @@
                 "open_issues": 14,
                 "owner": "kmod-midori",
                 "repo": "CatShare",
-                "stars": 750,
+                "stars": 749,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -1212,7 +1233,7 @@
                 "open_issues": 17,
                 "owner": "revenge-mod",
                 "repo": "revenge-manager",
-                "stars": 710,
+                "stars": 713,
                 "topics": [
                   "android",
                   "compose",
@@ -1266,11 +1287,11 @@
                 "id": 911180275,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T08:29:42Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-21T08:49:24Z",
+                "open_issues": 3,
                 "owner": "user-grinch",
                 "repo": "RivoPhoneApp",
-                "stars": 203,
+                "stars": 206,
                 "topics": [
                   "android",
                   "apps",
@@ -1355,10 +1376,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-19T17:49:55Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "madkongo",
                 "repo": "CallVault",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "adb",
                   "android",
@@ -1380,11 +1401,11 @@
                 "id": 1222654332,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T04:17:42Z",
+                "last_commit": "2026-09-21T04:17:17Z",
                 "open_issues": 11,
                 "owner": "LyoSU",
                 "repo": "cally",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-09-11T12:19:22.549Z"
@@ -1405,7 +1426,7 @@
                 "open_issues": 1,
                 "owner": "Foxlape",
                 "repo": "GhostMode",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -1485,7 +1506,7 @@
                 "open_issues": 16,
                 "owner": "KieronQuinn",
                 "repo": "TapTap",
-                "stars": 4035,
+                "stars": 4036,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -1502,11 +1523,11 @@
                 "id": 1109834595,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-20T12:24:56Z",
-                "open_issues": 113,
+                "last_commit": "2026-09-21T11:33:19Z",
+                "open_issues": 115,
                 "owner": "sameerasw",
                 "repo": "essentials",
-                "stars": 3056,
+                "stars": 3064,
                 "topics": [
                   "android",
                   "google-pixel",
@@ -1536,7 +1557,7 @@
                 "open_issues": 30,
                 "owner": "legendsayantan",
                 "repo": "ShizuTools",
-                "stars": 2538,
+                "stars": 2539,
                 "topics": [
                   "adb",
                   "android",
@@ -1575,7 +1596,7 @@
                 "open_issues": 10,
                 "owner": "KieronQuinn",
                 "repo": "AmbientMusicMod",
-                "stars": 2511,
+                "stars": 2512,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -1593,10 +1614,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-19T16:41:26Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Mahmud0808",
                 "repo": "ColorBlendr",
-                "stars": 2462,
+                "stars": 2463,
                 "topics": [
                   "accent-color",
                   "color-scheme",
@@ -1623,7 +1644,7 @@
                 "open_issues": 86,
                 "owner": "LinkSheet",
                 "repo": "LinkSheet",
-                "stars": 2107,
+                "stars": 2109,
                 "topics": [
                   "android",
                   "browser",
@@ -1692,7 +1713,7 @@
                 "open_issues": 212,
                 "owner": "farmerbb",
                 "repo": "Taskbar",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "android",
                   "freeform-windows",
@@ -1784,7 +1805,7 @@
                 "open_issues": 11,
                 "owner": "legendsayantan",
                 "repo": "Extendroid",
-                "stars": 690,
+                "stars": 691,
                 "topics": [
                   "android",
                   "app-manager",
@@ -1813,7 +1834,7 @@
                 "open_issues": 8,
                 "owner": "mrYouki",
                 "repo": "YoukiDex-Android-Desktop",
-                "stars": 579,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -1855,7 +1876,7 @@
                 "open_issues": 4,
                 "owner": "palincat",
                 "repo": "gama",
-                "stars": 404,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -1876,7 +1897,7 @@
                 "open_issues": 11,
                 "owner": "Katsuyamaki",
                 "repo": "DroidOS",
-                "stars": 398,
+                "stars": 399,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -1894,10 +1915,10 @@
                 "language": "Kotlin",
                 "license": "MIT",
                 "last_commit": "2026-06-13T13:37:45Z",
-                "open_issues": 44,
+                "open_issues": 46,
                 "owner": "Imtiaz-Official",
                 "repo": "Smart-Edge",
-                "stars": 386,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -1914,8 +1935,8 @@
                 "id": 1103328952,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T14:59:03Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-21T09:15:22Z",
+                "open_issues": 66,
                 "owner": "D4vidDf",
                 "repo": "HyperBridge",
                 "stars": 382,
@@ -1943,7 +1964,7 @@
                 "id": 1104767780,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T10:39:48Z",
+                "last_commit": "2026-09-20T18:03:03Z",
                 "open_issues": 20,
                 "owner": "Elnix90",
                 "repo": "Dragon-Launcher",
@@ -1964,8 +1985,8 @@
                 "id": 879389086,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T16:27:45Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-20T21:08:04Z",
+                "open_issues": 8,
                 "owner": "xLexip",
                 "repo": "Adaptive-Theme",
                 "stars": 262,
@@ -2028,7 +2049,7 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-18T10:20:48Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "FrancoGiudans",
                 "repo": "Capsulyric",
                 "stars": 193,
@@ -2049,10 +2070,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-20T09:46:35Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "agupta07505",
                 "repo": "SmartIsland",
-                "stars": 186,
+                "stars": 189,
                 "topics": [
                   "android",
                   "app-development",
@@ -2091,6 +2112,27 @@
             },
             {
               "node_type": "item",
+              "title": "DuoFold-Android",
+              "description": "System-wide iPhone Duo-style fold illusion that reprojects the whole screen from device motion with OpenGL ES, powered by Shizuku.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root.",
+                "homepage": null,
+                "id": 1367109038,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-09-13T03:13:29Z",
+                "open_issues": 4,
+                "owner": "jcx396905-gif",
+                "repo": "DuoFold-Android",
+                "stars": 164,
+                "topics": []
+              },
+              "first_seen": "2026-09-19T12:00:57.626Z"
+            },
+            {
+              "node_type": "item",
               "title": "O.status",
               "description": "Minimal status-bar indicator for Wi-Fi, cellular and battery that uses optional Shizuku integration to match system icon colors.",
               "children": [],
@@ -2105,7 +2147,7 @@
                 "open_issues": 22,
                 "owner": "CATCHINGL",
                 "repo": "O.status",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "android",
                   "android-app",
@@ -2116,27 +2158,6 @@
                   "status-bar",
                   "statusbar"
                 ]
-              },
-              "first_seen": "2026-09-19T12:00:57.626Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DuoFold-Android",
-              "description": "System-wide iPhone Duo-style fold illusion that reprojects the whole screen from device motion with OpenGL ES, powered by Shizuku.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root.",
-                "homepage": null,
-                "id": 1367109038,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2026-09-13T03:13:29Z",
-                "open_issues": 3,
-                "owner": "jcx396905-gif",
-                "repo": "DuoFold-Android",
-                "stars": 160,
-                "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
             },
@@ -2156,7 +2177,7 @@
                 "open_issues": 12,
                 "owner": "EvanKoe",
                 "repo": "expressive-cutout",
-                "stars": 157,
+                "stars": 160,
                 "topics": [
                   "andoid",
                   "andoid-app",
@@ -2192,7 +2213,7 @@
                 "open_issues": 1,
                 "owner": "AhmetCanArslan",
                 "repo": "CustomAnimator",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -2312,7 +2333,7 @@
                 "open_issues": 2,
                 "owner": "yshalsager",
                 "repo": "ShizukuShortcuts",
-                "stars": 68,
+                "stars": 71,
                 "topics": [
                   "compose",
                   "kotlin",
@@ -2359,11 +2380,11 @@
                 "id": 1281898617,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T11:48:05Z",
+                "last_commit": "2026-09-21T11:12:20Z",
                 "open_issues": 3,
                 "owner": "qpst4",
                 "repo": "cebian",
-                "stars": 56,
+                "stars": 61,
                 "topics": [
                   "accessibility-service",
                   "android",
@@ -2504,7 +2525,7 @@
                 "open_issues": 0,
                 "owner": "TakeruF",
                 "repo": "android-perapp-language-selector",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "android",
                   "android-app",
@@ -2531,7 +2552,7 @@
                 "open_issues": 1,
                 "owner": "sachinmandawi",
                 "repo": "CleanBar",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "android",
                   "immersive-mode",
@@ -2561,7 +2582,7 @@
                 "open_issues": 1,
                 "owner": "bravoyush",
                 "repo": "FreeformShell",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "android",
                   "desktop-mode",
@@ -2592,7 +2613,7 @@
                 "open_issues": 0,
                 "owner": "astroboii47",
                 "repo": "Commander",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "accessibility",
                   "android",
@@ -2620,7 +2641,7 @@
                 "open_issues": 0,
                 "owner": "mrYouki",
                 "repo": "YoukiShell-Android-Desktop",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
@@ -2644,11 +2665,11 @@
                 "id": 248400799,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T08:19:57Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-21T03:40:26Z",
+                "open_issues": 15,
                 "owner": "LibChecker",
                 "repo": "LibChecker",
-                "stars": 7177,
+                "stars": 7180,
                 "topics": [
                   "android",
                   "f-droid",
@@ -2674,7 +2695,7 @@
                 "open_issues": 128,
                 "owner": "VegaBobo",
                 "repo": "DSU-Sideloader",
-                "stars": 2292,
+                "stars": 2295,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -2718,7 +2739,7 @@
                 "open_issues": 21,
                 "owner": "F0x1d",
                 "repo": "LogFox",
-                "stars": 1320,
+                "stars": 1322,
                 "topics": [
                   "log",
                   "logcat",
@@ -2746,7 +2767,7 @@
                 "open_issues": 4,
                 "owner": "Cosmic-Ide",
                 "repo": "Cosmic-IDE",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "android-application",
                   "android-ide",
@@ -2848,8 +2869,8 @@
                 "id": 1164885633,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-01T01:46:45Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-21T08:52:15Z",
+                "open_issues": 17,
                 "owner": "MaheshSharan",
                 "repo": "FrameX-Android",
                 "stars": 149,
@@ -2873,7 +2894,7 @@
                 "open_issues": 4,
                 "owner": "Endda",
                 "repo": "80bee-app",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "android",
                   "android-app",
@@ -2945,7 +2966,7 @@
                 "open_issues": 2,
                 "owner": "ActivityLauncher",
                 "repo": "ActivityLauncherShizukuPlugin",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-09-08T12:15:30.396Z"
@@ -3060,11 +3081,11 @@
                 "id": 1214161423,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-11T17:53:05Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-21T12:12:46Z",
+                "open_issues": 0,
                 "owner": "rdevz-ph",
                 "repo": "FPS-Meter-Android",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "fps-monitor-overlay",
                   "game-helper",
@@ -3135,11 +3156,11 @@
                 "id": 625818604,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T14:52:03Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-21T05:11:42Z",
+                "open_issues": 21,
                 "owner": "iamr0s",
                 "repo": "Dhizuku",
-                "stars": 3847,
+                "stars": 3849,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -3179,10 +3200,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-19T06:41:26Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "BinTianqi",
                 "repo": "OwnDroid",
-                "stars": 1388,
+                "stars": 1390,
                 "topics": [
                   "android",
                   "device-owner",
@@ -3207,7 +3228,7 @@
                 "open_issues": 2,
                 "owner": "Stem0794",
                 "repo": "harbor",
-                "stars": 48,
+                "stars": 50,
                 "topics": [
                   "android",
                   "device-policy",
@@ -3270,7 +3291,7 @@
                 "open_issues": 6,
                 "owner": "NarYuki",
                 "repo": "Dextop",
-                "stars": 275,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -3291,7 +3312,28 @@
                 "open_issues": 13,
                 "owner": "jqssun",
                 "repo": "android-display-mirror",
-                "stars": 179,
+                "stars": 180,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:33:53.920Z"
+            },
+            {
+              "node_type": "item",
+              "title": "android-display-extend",
+              "description": "✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with on a PC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An all-purpose Android display manager for any connected physical or virtual display",
+                "homepage": "https://f-droid.org/packages/io.github.jqssun.displayextend/",
+                "id": 1203250965,
+                "language": "Java",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-22T12:22:01Z",
+                "open_issues": 7,
+                "owner": "jqssun",
+                "repo": "android-display-extend",
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -3319,27 +3361,6 @@
                   "shizuku",
                   "shizuku-api"
                 ]
-              },
-              "first_seen": "2026-08-28T19:33:53.920Z"
-            },
-            {
-              "node_type": "item",
-              "title": "android-display-extend",
-              "description": "✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with on a PC",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An all-purpose Android display manager for any connected physical or virtual display",
-                "homepage": "https://f-droid.org/packages/io.github.jqssun.displayextend/",
-                "id": 1203250965,
-                "language": "Java",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-22T12:22:01Z",
-                "open_issues": 7,
-                "owner": "jqssun",
-                "repo": "android-display-extend",
-                "stars": 162,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
             },
@@ -3383,7 +3404,7 @@
                 "open_issues": 8,
                 "owner": "mahmutaunal",
                 "repo": "Adaptive-Hz",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "accessibility-service",
                   "adaptive-hz",
@@ -3442,11 +3463,11 @@
                 "id": 1295570642,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T07:44:16Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-20T14:23:08Z",
+                "open_issues": 6,
                 "owner": "mekhontsev",
                 "repo": "magicdesk",
-                "stars": 59,
+                "stars": 61,
                 "topics": [
                   "android",
                   "android-15",
@@ -3480,7 +3501,7 @@
                 "id": 1217894636,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:02:22Z",
+                "last_commit": "2026-09-21T13:40:19Z",
                 "open_issues": 1,
                 "owner": "faded-penguin021",
                 "repo": "Tideo-Auto-Brightness",
@@ -3512,7 +3533,7 @@
                 "open_issues": 10,
                 "owner": "Suprhimp",
                 "repo": "castla",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "android-auto",
                   "carplay",
@@ -3613,10 +3634,10 @@
                     "language": "Kotlin",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-20T03:02:39Z",
-                    "open_issues": 318,
+                    "open_issues": 319,
                     "owner": "jobobby04",
                     "repo": "TachiyomiSY",
-                    "stars": 4153,
+                    "stars": 4152,
                     "topics": [
                       "android",
                       "hacktoberfest",
@@ -3636,11 +3657,11 @@
                 "id": 743704912,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T05:51:40Z",
-                "open_issues": 740,
+                "last_commit": "2026-09-20T15:33:14Z",
+                "open_issues": 738,
                 "owner": "mihonapp",
                 "repo": "mihon",
-                "stars": 23709,
+                "stars": 23731,
                 "topics": [
                   "android",
                   "kotlin",
@@ -3671,7 +3692,7 @@
                 "open_issues": 376,
                 "owner": "aniyomiorg",
                 "repo": "aniyomi",
-                "stars": 7697,
+                "stars": 7698,
                 "topics": [
                   "android",
                   "anime",
@@ -3696,7 +3717,7 @@
                 "open_issues": 4,
                 "owner": "molihuan",
                 "repo": "hlbmerge_flutter",
-                "stars": 378,
+                "stars": 381,
                 "topics": [
                   "bilibili",
                   "bilibili-downloader",
@@ -3745,6 +3766,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MaterialFiles",
+              "description": "Material Design file manager for Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Material Design file manager for Android",
+                "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
+                "id": 135088590,
+                "language": "Kotlin",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-20T20:42:04Z",
+                "open_issues": 611,
+                "owner": "zhanghai",
+                "repo": "MaterialFiles",
+                "stars": 9013,
+                "topics": [
+                  "android",
+                  "android-application",
+                  "file-manager",
+                  "kotlin",
+                  "kotlin-android",
+                  "material-design"
+                ]
+              },
+              "first_seen": "2026-09-21T14:28:44.777Z"
+            },
+            {
+              "node_type": "item",
               "title": "SDMaid-SE",
               "description": "💰 - SD Maid 2/SE is Android's most thorough cleaning tool (Source code)",
               "children": [],
@@ -3755,11 +3804,11 @@
                 "id": 568329126,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T18:12:22Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-21T14:09:48Z",
+                "open_issues": 19,
                 "owner": "d4rken-org",
                 "repo": "sdmaid-se",
-                "stars": 7562,
+                "stars": 7568,
                 "topics": [
                   "android",
                   "cleaner",
@@ -3783,11 +3832,11 @@
                 "id": 418086942,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T02:57:35Z",
+                "last_commit": "2026-09-20T18:27:09Z",
                 "open_issues": 62,
                 "owner": "plainhub",
                 "repo": "plain-app",
-                "stars": 6741,
+                "stars": 6745,
                 "topics": [
                   "android",
                   "android-app",
@@ -3826,10 +3875,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-11T04:36:48Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "Senzme",
                 "repo": "NFile",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "android",
                   "android-app",
@@ -3857,7 +3906,7 @@
                 "open_issues": 3,
                 "owner": "mlm-games",
                 "repo": "Fluffy",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -3895,11 +3944,11 @@
                 "id": 1263054462,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T10:55:35Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-21T13:15:39Z",
+                "open_issues": 7,
                 "owner": "l930203811",
                 "repo": "ZenFile",
-                "stars": 150,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -3916,11 +3965,11 @@
                 "id": 908504035,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T09:28:44Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-21T14:18:46Z",
+                "open_issues": 8,
                 "owner": "d4rken-org",
                 "repo": "butler",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "android",
                   "file-explorer",
@@ -3942,11 +3991,11 @@
                 "id": 1298367827,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T12:23:19Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-21T10:54:43Z",
+                "open_issues": 1,
                 "owner": "Local1stDotApp",
                 "repo": "XFiles",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -3967,7 +4016,7 @@
                 "open_issues": 3,
                 "owner": "kamren-zirger",
                 "repo": "sync-to-android-data",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-09-11T12:19:22.549Z"
@@ -4009,7 +4058,7 @@
                 "open_issues": 2,
                 "owner": "SysAdminDoc",
                 "repo": "FileExplorer",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "android",
                   "android-app",
@@ -4072,7 +4121,7 @@
                 "open_issues": 1,
                 "owner": "NarayanChetri",
                 "repo": "ROSE",
-                "stars": 20,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-09-11T12:19:22.549Z"
@@ -4089,7 +4138,7 @@
                 "id": 1342453801,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T14:42:40Z",
+                "last_commit": "2026-09-20T12:37:54Z",
                 "open_issues": 0,
                 "owner": "BugeStudioTeam",
                 "repo": "Buge-Files",
@@ -4139,7 +4188,7 @@
                 "id": 1359971166,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T12:28:27Z",
+                "last_commit": "2026-09-20T17:01:37Z",
                 "open_issues": 0,
                 "owner": "dev2ex",
                 "repo": "twig",
@@ -4181,11 +4230,11 @@
                 "id": 1154094924,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T11:12:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-20T16:54:33Z",
+                "open_issues": 30,
                 "owner": "Aliothmoon",
                 "repo": "MAA-Meow",
-                "stars": 1534,
+                "stars": 1536,
                 "topics": []
               },
               "first_seen": "2026-09-08T12:15:30.396Z"
@@ -4206,7 +4255,7 @@
                 "open_issues": 13,
                 "owner": "rayshift",
                 "repo": "translatefgo",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "csharp",
                   "fate-grand-order",
@@ -4349,7 +4398,7 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-09T07:51:24Z",
-                "open_issues": 35,
+                "open_issues": 31,
                 "owner": "onerdna",
                 "repo": "stalker",
                 "stars": 52,
@@ -4369,7 +4418,7 @@
                 "id": 1167822494,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-19T18:41:18Z",
+                "last_commit": "2026-09-20T18:03:23Z",
                 "open_issues": 3,
                 "owner": "ObfuscatedVoid",
                 "repo": "Cinderbox-Companion",
@@ -4442,6 +4491,34 @@
             },
             {
               "node_type": "item",
+              "title": "Nibnya",
+              "description": "An Android NBT editor for Minecraft Bedrock, powered by Shizuku for /data access",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An Android NBT editor for Minecraft Bedrock, powered by Shizuku for /data access. | 一款基于 Shizuku 的安卓 Minecraft 基岩版 NBT 数据编辑器，支持 Android 6~13",
+                "homepage": null,
+                "id": 1131626129,
+                "language": "Kotlin",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-15T16:03:10Z",
+                "open_issues": 1,
+                "owner": "yinghuajimew",
+                "repo": "Nibnya",
+                "stars": 19,
+                "topics": [
+                  "blocktopograph",
+                  "mcpe",
+                  "minecraft",
+                  "minecraft-bedrock",
+                  "nbt-editor",
+                  "shizuku"
+                ]
+              },
+              "first_seen": "2026-09-20T12:34:42.214Z"
+            },
+            {
+              "node_type": "item",
               "title": "pf-tool",
               "description": "Easily import and share Polyfield maps",
               "children": [],
@@ -4464,34 +4541,6 @@
                 ]
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Nibnya",
-              "description": "An Android NBT editor for Minecraft Bedrock, powered by Shizuku for /data access",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An Android NBT editor for Minecraft Bedrock, powered by Shizuku for /data access. | 一款基于 Shizuku 的安卓 Minecraft 基岩版 NBT 数据编辑器，支持 Android 6~13",
-                "homepage": null,
-                "id": 1131626129,
-                "language": "Kotlin",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-09-15T16:03:10Z",
-                "open_issues": 0,
-                "owner": "yinghuajimew",
-                "repo": "Nibnya",
-                "stars": 18,
-                "topics": [
-                  "blocktopograph",
-                  "mcpe",
-                  "minecraft",
-                  "minecraft-bedrock",
-                  "nbt-editor",
-                  "shizuku"
-                ]
-              },
-              "first_seen": "2026-09-20T12:34:42.214Z"
             },
             {
               "node_type": "item",
@@ -4593,11 +4642,11 @@
                 "id": 141129812,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T11:59:22Z",
-                "open_issues": 187,
+                "last_commit": "2026-09-21T12:42:16Z",
+                "open_issues": 183,
                 "owner": "keymapperorg",
                 "repo": "KeyMapper",
-                "stars": 2664,
+                "stars": 2666,
                 "topics": [
                   "accessibilityservice",
                   "android",
@@ -4635,7 +4684,7 @@
                 "open_issues": 14,
                 "owner": "BryceWG",
                 "repo": "BiBi-Keyboard",
-                "stars": 799,
+                "stars": 800,
                 "topics": [
                   "android-app",
                   "asr",
@@ -4663,11 +4712,11 @@
                 "id": 419952335,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T07:39:02Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-21T12:17:45Z",
+                "open_issues": 30,
                 "owner": "Xtr126",
                 "repo": "XtMapper",
-                "stars": 441,
+                "stars": 440,
                 "topics": [
                   "android",
                   "android-x86",
@@ -4694,7 +4743,7 @@
                 "open_issues": 70,
                 "owner": "palsoftware",
                 "repo": "pastiera",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -4715,7 +4764,7 @@
                 "open_issues": 11,
                 "owner": "aka-munan",
                 "repo": "keysync",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -4757,7 +4806,7 @@
                 "open_issues": 0,
                 "owner": "SonicDX12",
                 "repo": "SteamController-Android",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-09-11T12:19:22.549Z"
@@ -4954,11 +5003,11 @@
                     "id": 1166691092,
                     "language": "Dart",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-19T22:03:14Z",
+                    "last_commit": "2026-09-20T22:16:23Z",
                     "open_issues": 7,
                     "owner": "bikram-agarwal",
                     "repo": "ObtainX",
-                    "stars": 1242,
+                    "stars": 1248,
                     "topics": [
                       "android",
                       "sideloading"
@@ -4975,10 +5024,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-13T22:38:31Z",
-                "open_issues": 376,
+                "open_issues": 378,
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 19818,
+                "stars": 19849,
                 "topics": [
                   "android",
                   "apk",
@@ -5013,10 +5062,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T10:31:18Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "komi-store",
                 "repo": "komi-store",
-                "stars": 18634,
+                "stars": 18655,
                 "topics": [
                   "android",
                   "desktop",
@@ -5050,10 +5099,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T18:50:31Z",
-                "open_issues": 191,
+                "open_issues": 192,
                 "owner": "Droid-ify",
                 "repo": "client",
-                "stars": 7438,
+                "stars": 7451,
                 "topics": [
                   "android",
                   "android-application",
@@ -5077,11 +5126,11 @@
                 "id": 884278258,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T00:14:42Z",
+                "last_commit": "2026-09-20T14:56:46Z",
                 "open_issues": 21,
                 "owner": "wxxsfxyzm",
                 "repo": "InstallerX-Revived",
-                "stars": 6653,
+                "stars": 6664,
                 "topics": [
                   "android",
                   "apk",
@@ -5108,11 +5157,11 @@
                 "id": 345346677,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T15:45:51Z",
-                "open_issues": 122,
+                "last_commit": "2026-09-20T15:04:00Z",
+                "open_issues": 119,
                 "owner": "NeoApplications",
                 "repo": "Neo-Store",
-                "stars": 5129,
+                "stars": 5166,
                 "topics": [
                   "android",
                   "f-droid",
@@ -5138,7 +5187,7 @@
                 "open_issues": 0,
                 "owner": "Aefyr",
                 "repo": "SAI",
-                "stars": 3857,
+                "stars": 3862,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -5159,7 +5208,7 @@
                 "open_issues": 77,
                 "owner": "RookieEnough",
                 "repo": "Orion-Store",
-                "stars": 3360,
+                "stars": 3362,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -5180,7 +5229,7 @@
                 "open_issues": 14,
                 "owner": "zacharee",
                 "repo": "InstallWithOptions",
-                "stars": 3252,
+                "stars": 3266,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -5198,10 +5247,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T17:02:41Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "pass-with-high-score",
                 "repo": "universal-installer",
-                "stars": 1464,
+                "stars": 1471,
                 "topics": [
                   "android",
                   "apkm-installer",
@@ -5232,7 +5281,7 @@
                 "open_issues": 15,
                 "owner": "mamiiblt",
                 "repo": "instafel",
-                "stars": 1264,
+                "stars": 1263,
                 "topics": [
                   "alpha",
                   "instagram",
@@ -5272,6 +5321,32 @@
             },
             {
               "node_type": "item",
+              "title": "PI",
+              "description": "Package installer that allows overwriting the package requester and executor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PackageInstaller",
+                "homepage": null,
+                "id": 720492308,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2026-09-21T14:01:33Z",
+                "open_issues": 0,
+                "owner": "SanmerApps",
+                "repo": "PI",
+                "stars": 702,
+                "topics": [
+                  "android",
+                  "dhizuku",
+                  "root",
+                  "shizuku"
+                ]
+              },
+              "first_seen": "2026-08-28T19:33:53.920Z"
+            },
+            {
+              "node_type": "item",
               "title": "Shizuku Package Installer",
               "description": "A lightweight app installer replacement with split APK support",
               "children": [],
@@ -5286,34 +5361,8 @@
                 "open_issues": 8,
                 "owner": "vvb2060",
                 "repo": "PackageInstaller",
-                "stars": 702,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:33:53.920Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PI",
-              "description": "Package installer that allows overwriting the package requester and executor",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PackageInstaller",
-                "homepage": null,
-                "id": 720492308,
-                "language": "Kotlin",
-                "license": "MIT",
-                "last_commit": "2026-09-19T06:58:07Z",
-                "open_issues": 0,
-                "owner": "SanmerApps",
-                "repo": "PI",
                 "stars": 701,
-                "topics": [
-                  "android",
-                  "dhizuku",
-                  "root",
-                  "shizuku"
-                ]
+                "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
             },
@@ -5330,10 +5379,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-07T16:32:59Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "Nandanrmenon",
                 "repo": "florid",
-                "stars": 509,
+                "stars": 512,
                 "topics": [
                   "android",
                   "android-store",
@@ -5378,10 +5427,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-15T21:44:39Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "elhizazi1",
                 "repo": "ShizuCoreFetch",
-                "stars": 440,
+                "stars": 445,
                 "topics": [
                   "android",
                   "apk-manager",
@@ -5431,11 +5480,11 @@
                 "id": 1375180713,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T02:33:34Z",
+                "last_commit": "2026-09-21T01:01:51Z",
                 "open_issues": 0,
                 "owner": "timschneeb",
                 "repo": "ShizuStore",
-                "stars": 30,
+                "stars": 40,
                 "topics": [
                   "android",
                   "app-store",
@@ -5506,11 +5555,11 @@
                 "id": 1301190105,
                 "language": "Dart",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T12:23:43Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-21T14:26:37Z",
+                "open_issues": 0,
                 "owner": "jxlarrea",
                 "repo": "kiosk-satellite",
-                "stars": 1042,
+                "stars": 1163,
                 "topics": [
                   "android",
                   "apk",
@@ -5549,10 +5598,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T09:00:42Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ciddwd",
                 "repo": "overlay-translator",
-                "stars": 868,
+                "stars": 876,
                 "topics": [
                   "android",
                   "android-app",
@@ -5594,7 +5643,7 @@
                 "open_issues": 12,
                 "owner": "iebb",
                 "repo": "NekokoLPA2",
-                "stars": 363,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
@@ -5689,7 +5738,7 @@
                 "open_issues": 9,
                 "owner": "androidexpert35",
                 "repo": "AppBooster",
-                "stars": 107,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -5710,7 +5759,7 @@
                 "open_issues": 0,
                 "owner": "takusan23",
                 "repo": "OnStop2FinishAndRemoveTask",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -5761,7 +5810,7 @@
                 "open_issues": 0,
                 "owner": "wqry085",
                 "repo": "PoC-Deployer-System",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -5845,7 +5894,7 @@
                 "open_issues": 0,
                 "owner": "izumisagirii",
                 "repo": "silent-alarm",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "alarm-clock",
                   "android",
@@ -5917,11 +5966,11 @@
                 "id": 509091576,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T10:10:34Z",
-                "open_issues": 344,
+                "last_commit": "2026-09-21T14:06:17Z",
+                "open_issues": 348,
                 "owner": "SagerNet",
                 "repo": "sing-box",
-                "stars": 38167,
+                "stars": 38191,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -5938,11 +5987,11 @@
                 "id": 644710160,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-19T03:31:16Z",
-                "open_issues": 115,
+                "last_commit": "2026-09-21T03:35:37Z",
+                "open_issues": 116,
                 "owner": "wgtunnel",
                 "repo": "android",
-                "stars": 3181,
+                "stars": 3184,
                 "topics": [
                   "amnezia-vpn",
                   "android",
@@ -5974,11 +6023,11 @@
                 "id": 1084579793,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T14:01:17Z",
+                "last_commit": "2026-09-21T06:46:31Z",
                 "open_issues": 3,
                 "owner": "AhmetCanArslan",
                 "repo": "ShizuWall",
-                "stars": 2269,
+                "stars": 2271,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -6028,7 +6077,7 @@
                 "open_issues": 18,
                 "owner": "leekleak",
                 "repo": "traffic-light",
-                "stars": 853,
+                "stars": 860,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -6045,11 +6094,11 @@
                 "id": 1204820321,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-19T17:27:39Z",
+                "last_commit": "2026-09-21T08:40:38Z",
                 "open_issues": 11,
                 "owner": "eyalm2000",
                 "repo": "adns",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "adblock",
                   "adblocker",
@@ -6106,7 +6155,7 @@
                 "open_issues": 24,
                 "owner": "aunchagaonkar",
                 "repo": "NetworkSwitch",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "4g-5g",
                   "android",
@@ -6209,7 +6258,7 @@
                 "open_issues": 9,
                 "owner": "shynoiddev",
                 "repo": "FireWall-Blocks",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "adblocking",
                   "android",
@@ -6261,7 +6310,7 @@
                 "language": "Kotlin",
                 "license": null,
                 "last_commit": "2026-09-13T14:08:11Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "carlelieser",
                 "repo": "shizzi",
                 "stars": 106,
@@ -6365,11 +6414,11 @@
                 "id": 1311746613,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T09:38:23Z",
+                "last_commit": "2026-09-21T08:38:49Z",
                 "open_issues": 1,
                 "owner": "Dhangofa",
                 "repo": "NetToggle",
-                "stars": 43,
+                "stars": 46,
                 "topics": [
                   "5g-switch",
                   "android",
@@ -6401,7 +6450,7 @@
                 "id": 912434402,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T16:03:54Z",
+                "last_commit": "2026-09-21T11:05:31Z",
                 "open_issues": 0,
                 "owner": "DottoXD",
                 "repo": "NetManager",
@@ -6446,7 +6495,7 @@
                 "open_issues": 0,
                 "owner": "codegeasse1",
                 "repo": "hikari-adblock",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-09-11T12:19:22.549Z"
@@ -6513,7 +6562,7 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-10T16:32:55Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "harvzor",
                 "repo": "android-bluetooth-bouncer",
                 "stars": 2,
@@ -6533,7 +6582,7 @@
                 "id": 1373004859,
                 "language": "Kotlin",
                 "license": null,
-                "last_commit": "2026-09-16T18:26:29Z",
+                "last_commit": "2026-09-20T19:22:35Z",
                 "open_issues": 0,
                 "owner": "duhow",
                 "repo": "nobita",
@@ -6609,11 +6658,11 @@
                 "id": 1104751416,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T12:11:39Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-21T12:13:14Z",
+                "open_issues": 27,
                 "owner": "MorpheApp",
                 "repo": "morphe-manager",
-                "stars": 8195,
+                "stars": 8219,
                 "topics": [
                   "android",
                   "apk",
@@ -6642,7 +6691,7 @@
                 "open_issues": 12,
                 "owner": "JingMatrix",
                 "repo": "LSPatch",
-                "stars": 3957,
+                "stars": 3965,
                 "topics": [
                   "android",
                   "lspatch",
@@ -6668,7 +6717,7 @@
                 "open_issues": 17,
                 "owner": "7723mod",
                 "repo": "NPatch",
-                "stars": 2328,
+                "stars": 2341,
                 "topics": [
                   "lspatch",
                   "rootless",
@@ -6690,10 +6739,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-20T05:32:11Z",
-                "open_issues": 54,
+                "open_issues": 56,
                 "owner": "Jman-Github",
                 "repo": "Universal-ReVanced-Manager",
-                "stars": 1304,
+                "stars": 1307,
                 "topics": [
                   "android",
                   "apk",
@@ -6731,7 +6780,7 @@
                 "open_issues": 21,
                 "owner": "Akylas",
                 "repo": "EnforceDoze",
-                "stars": 360,
+                "stars": 361,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -6752,7 +6801,7 @@
                 "open_issues": 11,
                 "owner": "adil192",
                 "repo": "no_more_background",
-                "stars": 343,
+                "stars": 345,
                 "topics": [
                   "adb",
                   "android",
@@ -6823,7 +6872,7 @@
                 "id": 1065206552,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T13:54:32Z",
+                "last_commit": "2026-09-21T13:56:15Z",
                 "open_issues": 2,
                 "owner": "mlm-games",
                 "repo": "BatStats",
@@ -6922,7 +6971,7 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-07T13:44:22Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "d4rken-org",
                 "repo": "amply",
                 "stars": 39,
@@ -7018,6 +7067,27 @@
             },
             {
               "node_type": "item",
+              "title": "Battery Mode Checker",
+              "description": "Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1377206789,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-20T08:06:25Z",
+                "open_issues": 1,
+                "owner": "mrdarksidetm",
+                "repo": "Android-Battery-Unrestricted-Checker",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-09-20T12:34:42.214Z"
+            },
+            {
+              "node_type": "item",
               "title": "wakelogs",
               "description": "Analyzes display wakeups, CPU activity, alarms and device rest with Shizuku-based system diagnostics.",
               "children": [],
@@ -7036,27 +7106,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-11T12:19:22.549Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Battery Mode Checker",
-              "description": "Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1377206789,
-                "language": "Kotlin",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-20T08:06:25Z",
-                "open_issues": 0,
-                "owner": "mrdarksidetm",
-                "repo": "Android-Battery-Unrestricted-Checker",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-09-20T12:34:42.214Z"
             }
           ],
           "description": null,
@@ -7125,11 +7174,11 @@
                 "id": 1070281089,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T02:55:32Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-21T00:36:23Z",
+                "open_issues": 7,
                 "owner": "Monica-Pass",
                 "repo": "Monica",
-                "stars": 1021,
+                "stars": 1023,
                 "topics": [
                   "android",
                   "authenticator",
@@ -7162,7 +7211,7 @@
                 "open_issues": 109,
                 "owner": "aload0",
                 "repo": "AppLock",
-                "stars": 883,
+                "stars": 885,
                 "topics": [
                   "android",
                   "app-locker",
@@ -7189,10 +7238,10 @@
                 "language": "Kotlin",
                 "license": "MIT",
                 "last_commit": "2026-09-16T13:48:23Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "dorumrr",
                 "repo": "privacyFlip",
-                "stars": 302,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -7238,7 +7287,7 @@
                 "open_issues": 2,
                 "owner": "robinsrk",
                 "repo": "privacify",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-09-11T12:19:22.549Z"
@@ -7276,11 +7325,11 @@
                 "id": 1309562264,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T18:11:24Z",
+                "last_commit": "2026-09-21T14:07:43Z",
                 "open_issues": 0,
                 "owner": "1zumiii",
                 "repo": "AppOpsNext",
-                "stars": 29,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
@@ -7305,10 +7354,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-15T16:34:09Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "curbox-app",
                 "repo": "curbox-android",
-                "stars": 1345,
+                "stars": 1353,
                 "topics": [
                   "android",
                   "app-blocker",
@@ -7339,7 +7388,7 @@
                 "open_issues": 38,
                 "owner": "shrimqy",
                 "repo": "Sefirah-Android",
-                "stars": 976,
+                "stars": 978,
                 "topics": [
                   "android",
                   "clean-architecture",
@@ -7369,8 +7418,8 @@
                 "id": 313314343,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T23:05:15Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-20T18:41:14Z",
+                "open_issues": 38,
                 "owner": "flxapps",
                 "repo": "DetoxDroid",
                 "stars": 523,
@@ -7391,7 +7440,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T04:26:13Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Nevodev",
                 "repo": "Cresto",
                 "stars": 313,
@@ -7420,7 +7469,7 @@
                 "open_issues": 3,
                 "owner": "1812z",
                 "repo": "HyperCopy",
-                "stars": 184,
+                "stars": 183,
                 "topics": [
                   "android",
                   "miuix",
@@ -7494,7 +7543,7 @@
                 "id": 1298213871,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T21:34:30Z",
+                "last_commit": "2026-09-20T15:30:16Z",
                 "open_issues": 8,
                 "owner": "Balajitechlabs",
                 "repo": "quickdash",
@@ -7557,7 +7606,7 @@
                 "id": 982640045,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T14:52:55Z",
+                "last_commit": "2026-09-21T06:17:47Z",
                 "open_issues": 12,
                 "owner": "RBN-Apps",
                 "repo": "Quick-Tile-Settings",
@@ -7607,11 +7656,11 @@
                 "id": 705485517,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T12:02:36Z",
+                "last_commit": "2026-09-21T01:28:48Z",
                 "open_issues": 0,
                 "owner": "flashsphere",
                 "repo": "private-dns-qs",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "android",
                   "android-quicksettings",
@@ -7632,11 +7681,11 @@
                 "id": 1219844781,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-20T12:30:19Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-20T12:36:15Z",
+                "open_issues": 0,
                 "owner": "ELowry",
                 "repo": "DNSToggle",
-                "stars": 119,
+                "stars": 121,
                 "topics": [
                   "android-app",
                   "android-tv",
@@ -7709,7 +7758,7 @@
                 "open_issues": 0,
                 "owner": "Mygod",
                 "repo": "DataSimTile",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "android",
                   "dual-sim",
@@ -7781,10 +7830,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T10:51:43Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "aistra0528",
                 "repo": "Hail",
-                "stars": 6713,
+                "stars": 6723,
                 "topics": [
                   "android",
                   "android-application",
@@ -7813,7 +7862,7 @@
                 "open_issues": 29,
                 "owner": "samolego",
                 "repo": "Canta",
-                "stars": 5915,
+                "stars": 5929,
                 "topics": [
                   "android",
                   "app-manager",
@@ -7840,7 +7889,7 @@
                 "open_issues": 682,
                 "owner": "oasisfeng",
                 "repo": "island",
-                "stars": 3928,
+                "stars": 3931,
                 "topics": [
                   "android"
                 ]
@@ -7859,11 +7908,11 @@
                 "id": 115417337,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T11:54:30Z",
-                "open_issues": 48,
+                "last_commit": "2026-09-21T11:53:54Z",
+                "open_issues": 49,
                 "owner": "lihenggui",
                 "repo": "blocker",
-                "stars": 2400,
+                "stars": 2402,
                 "topics": [
                   "android",
                   "compose",
@@ -7886,10 +7935,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-18T18:43:16Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "MMRLApp",
                 "repo": "MMRL",
-                "stars": 2164,
+                "stars": 2165,
                 "topics": [
                   "android",
                   "apatch",
@@ -7919,7 +7968,7 @@
                 "open_issues": 0,
                 "owner": "Hamza417",
                 "repo": "Inure",
-                "stars": 1923,
+                "stars": 1924,
                 "topics": [
                   "android",
                   "android-app",
@@ -7959,7 +8008,7 @@
                 "open_issues": 45,
                 "owner": "DUpdateSystem",
                 "repo": "UpgradeAll",
-                "stars": 1341,
+                "stars": 1342,
                 "topics": [
                   "android",
                   "kotlin",
@@ -7985,7 +8034,7 @@
                 "open_issues": 72,
                 "owner": "SmartPack",
                 "repo": "PackageManager",
-                "stars": 828,
+                "stars": 829,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -8002,11 +8051,11 @@
                 "id": 919436363,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T01:29:00Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-21T12:26:52Z",
+                "open_issues": 11,
                 "owner": "trinadhthatakula",
                 "repo": "Thor",
-                "stars": 562,
+                "stars": 567,
                 "topics": [
                   "android-application",
                   "androidappmanager",
@@ -8061,11 +8110,11 @@
                 "id": 1170682294,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T01:55:46Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-21T13:35:44Z",
+                "open_issues": 1,
                 "owner": "BugeStudioTeam",
                 "repo": "Buge-App-Manager",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "android",
                   "app-manager",
@@ -8172,7 +8221,7 @@
                 "open_issues": 7,
                 "owner": "sunilpaulmathew",
                 "repo": "AppVaultX",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "apps",
                   "debloating",
@@ -8218,7 +8267,7 @@
                 "open_issues": 6,
                 "owner": "SysAdminDoc",
                 "repo": "AppManagerNG",
-                "stars": 88,
+                "stars": 91,
                 "topics": [
                   "adb",
                   "android",
@@ -8272,7 +8321,7 @@
                 "open_issues": 5,
                 "owner": "DroidUtility",
                 "repo": "DroidUtility",
-                "stars": 15,
+                "stars": 17,
                 "topics": [
                   "android",
                   "app",
@@ -8399,7 +8448,7 @@
                 "open_issues": 5,
                 "owner": "RohitKushvaha01",
                 "repo": "TaskManager",
-                "stars": 644,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -8420,7 +8469,7 @@
                 "open_issues": 22,
                 "owner": "YasserNull",
                 "repo": "shappky",
-                "stars": 580,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -8441,7 +8490,7 @@
                 "open_issues": 6,
                 "owner": "biplobsd",
                 "repo": "running_services_monitor",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "android",
                   "f-droid",
@@ -8499,11 +8548,11 @@
                 "id": 1196375268,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-04T16:00:20Z",
+                "last_commit": "2026-09-20T17:34:06Z",
                 "open_issues": 0,
                 "owner": "gree1d",
                 "repo": "ReAppzuku",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "android",
                   "appmanager",
@@ -8564,7 +8613,7 @@
                 "open_issues": 0,
                 "owner": "dedeadend",
                 "repo": "KillMyApps",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "android",
                   "app-killer",
@@ -8599,7 +8648,7 @@
                 "open_issues": 3,
                 "owner": "cicerothoma",
                 "repo": "memhogs-android",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -8626,7 +8675,7 @@
                 "open_issues": 2,
                 "owner": "tymwitko",
                 "repo": "Recents",
-                "stars": 69,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-09-20T12:34:42.214Z"
@@ -8676,11 +8725,11 @@
                 "id": 1162195268,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-19T05:42:20Z",
+                "last_commit": "2026-09-20T18:55:30Z",
                 "open_issues": 55,
                 "owner": "GlassHaven",
                 "repo": "Haven",
-                "stars": 1220,
+                "stars": 1223,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.920Z"
@@ -8702,11 +8751,11 @@
                     "id": 747412989,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-20T12:00:08Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-09-21T13:14:35Z",
+                    "open_issues": 29,
                     "owner": "DP-Hridayan",
                     "repo": "aShellYou",
-                    "stars": 2373,
+                    "stars": 2379,
                     "topics": [
                       "adb",
                       "android",
@@ -8752,7 +8801,7 @@
                     "open_issues": 7,
                     "owner": "KieronQuinn",
                     "repo": "Smartspacer",
-                    "stars": 3524,
+                    "stars": 3525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:33:53.920Z"
@@ -8770,10 +8819,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-02-07T13:51:45Z",
-                    "open_issues": 98,
+                    "open_issues": 99,
                     "owner": "kyujin-cho",
                     "repo": "pixel-volte-patch",
-                    "stars": 3034,
+                    "stars": 3037,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:33:53.920Z"
@@ -8791,10 +8840,10 @@
                     "language": "Kotlin",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-04T03:04:27Z",
-                    "open_issues": 136,
+                    "open_issues": 138,
                     "owner": "ryfineZ",
                     "repo": "carrier-ims-for-pixel",
-                    "stars": 1712,
+                    "stars": 1722,
                     "topics": [
                       "5g-plus",
                       "carrierconfig",
@@ -8824,7 +8873,7 @@
                     "open_issues": 21,
                     "owner": "alex193a",
                     "repo": "Root-My-Pixel",
-                    "stars": 388,
+                    "stars": 393,
                     "topics": [
                       "cve",
                       "exploit",
@@ -8873,7 +8922,7 @@
                     "open_issues": 18,
                     "owner": "DhananjayBhosale",
                     "repo": "hilight-studio",
-                    "stars": 322,
+                    "stars": 326,
                     "topics": [
                       "adb",
                       "android",
@@ -8968,10 +9017,10 @@
                     "language": "Kotlin",
                     "license": "MIT",
                     "last_commit": "2026-09-01T08:37:49Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "AgusRomeroL",
                     "repo": "video-boost-ao",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": [
                       "accessibility-service",
                       "adb",
@@ -9017,10 +9066,10 @@
                     "language": "Kotlin",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-03T03:21:42Z",
-                    "open_issues": 531,
+                    "open_issues": 534,
                     "owner": "BuSung-dev",
                     "repo": "Root-My-Galaxy",
-                    "stars": 1246,
+                    "stars": 1255,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:33:53.920Z"
@@ -9041,7 +9090,7 @@
                     "open_issues": 5,
                     "owner": "BLuFeNiX",
                     "repo": "SMTShell",
-                    "stars": 246,
+                    "stars": 247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:33:53.920Z"
@@ -9080,10 +9129,10 @@
                     "language": "Kotlin",
                     "license": "MIT",
                     "last_commit": "2026-09-10T08:31:45Z",
-                    "open_issues": 8,
+                    "open_issues": 6,
                     "owner": "Ritel-T",
                     "repo": "SamsungRegionOverride",
-                    "stars": 60,
+                    "stars": 62,
                     "topics": [
                       "android",
                       "android-app",
@@ -9119,7 +9168,7 @@
                     "open_issues": 4,
                     "owner": "KhunHtetzNaing",
                     "repo": "ScamsungFonts",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:33:53.920Z"
@@ -9182,7 +9231,7 @@
                     "open_issues": 1,
                     "owner": "thejaustin",
                     "repo": "pearity",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-09-11T12:19:22.549Z"
@@ -9224,7 +9273,7 @@
                     "open_issues": 1,
                     "owner": "balamurugan15",
                     "repo": "ZFold-Multi-DPI",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-09-08T12:15:30.396Z"
@@ -9294,7 +9343,7 @@
                     "open_issues": 2,
                     "owner": "wxxsfxyzm",
                     "repo": "IslandRecorder",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-09-11T12:19:22.549Z"
@@ -9315,7 +9364,7 @@
                     "open_issues": 2,
                     "owner": "dingwen07",
                     "repo": "hyperos-fcm-fix",
-                    "stars": 109,
+                    "stars": 111,
                     "topics": []
                   },
                   "first_seen": "2026-09-08T12:15:30.396Z"
@@ -9435,7 +9484,7 @@
                     "id": 1336936390,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-08-27T12:35:15Z",
+                    "last_commit": "2026-09-21T12:18:45Z",
                     "open_issues": 0,
                     "owner": "tgvdufuture",
                     "repo": "Aura",
@@ -9513,7 +9562,7 @@
                     "open_issues": 0,
                     "owner": "mastercook777",
                     "repo": "Heimdall-AYN-Thor-Assistant",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-09-11T12:19:22.549Z"
@@ -9534,7 +9583,7 @@
                     "open_issues": 3,
                     "owner": "Thor-Wayfinder",
                     "repo": "thor-wayfinder",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": [
                       "android",
                       "ayn",
@@ -9557,7 +9606,7 @@
                     "id": 1258299774,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T09:27:30Z",
+                    "last_commit": "2026-09-20T15:00:56Z",
                     "open_issues": 26,
                     "owner": "panel-assistant",
                     "repo": "android",
@@ -9658,7 +9707,7 @@
                     "open_issues": 0,
                     "owner": "zampierilucas",
                     "repo": "RedTrigger",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:33:53.920Z"
@@ -9675,7 +9724,7 @@
                     "id": 1257672110,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T09:16:02Z",
+                    "last_commit": "2026-09-21T09:54:11Z",
                     "open_issues": 0,
                     "owner": "mayusi",
                     "repo": "Calibrate-SoC",
@@ -9799,10 +9848,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2025-05-29T19:12:40Z",
-                "open_issues": 329,
+                "open_issues": 330,
                 "owner": "RikkaApps",
                 "repo": "Shizuku-API",
-                "stars": 2571,
+                "stars": 2575,
                 "topics": [
                   "android",
                   "shizuku"
@@ -9841,13 +9890,13 @@
                 "description": "Android SDK for Porter, with compatible Shizuku APIs and direct Porter support.",
                 "homepage": null,
                 "id": 1360480431,
-                "language": "Java",
+                "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-19T15:21:57Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-21T13:54:30Z",
+                "open_issues": 1,
                 "owner": "d4rken-org",
                 "repo": "porter-api",
-                "stars": 3,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-09-19T12:00:57.626Z"
@@ -10047,7 +10096,7 @@
                 "id": 1274185358,
                 "language": "Kotlin",
                 "license": null,
-                "last_commit": "2026-09-19T03:41:18Z",
+                "last_commit": "2026-09-21T04:51:06Z",
                 "open_issues": 0,
                 "owner": "priv-kit",
                 "repo": "priv-kit",
@@ -10075,7 +10124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:34:42.214Z",
+    "last_updated": "2026-09-21T14:28:44.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Android apps making use of Shizuku",
@@ -10083,11 +10132,11 @@
       "id": 548171339,
       "language": "Python",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-20T11:57:10Z",
+      "last_commit": "2026-09-21T13:54:21Z",
       "open_issues": 1,
       "owner": "timschneeb",
       "repo": "awesome-shizuku",
-      "stars": 10213,
+      "stars": 10225,
       "topics": [
         "adb",
         "android",
@@ -10097,7 +10146,7 @@
         "shizuku"
       ]
     },
-    "original_repository_sha": "c43a2b94583dd83fba767eced63120bb4025ba15",
+    "original_repository_sha": "5edd5bfeaf85e9aa316ce3eaed43ffa5313de0b8",
     "enhanced_repository": "enhansome/enhansome-shizuku",
     "enhanced_repository_description": null,
     "title": "awesome-shizuku with stars"
